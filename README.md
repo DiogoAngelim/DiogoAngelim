@@ -5,9 +5,9 @@
 <br/>
 
 I'm a JavaScript Developer focused on building scalable, high-performance web applications with React, Node.js, and Next.js. I’m passionate about finance, health, and technology, and I bring a detail-oriented mindset and strong grasp of the Software Development Lifecycle to every project. I thrive on solving complex problems through a balance of analytical thinking and creative engineering, consistently delivering clean, efficient, and maintainable code.
-<br>
+<br><br>
 My toolkit includes RESTful APIs, server-side rendering, real-time features, and performance optimization using tools like Lighthouse and Chrome DevTools. I follow best practices in testing, version control, and code scalability, and I value strong communication and collaboration.
-<br>
+<br><br>
 My goal is to join a forward-thinking team where I can build impactful digital products, grow alongside talented developers, and contribute to solving meaningful real-world problems through code.
 
 
@@ -24,7 +24,7 @@ My goal is to join a forward-thinking team where I can build impactful digital p
 
 - **Open Source Contributor** - Naubly (Self Employed) - *2022 - current*
 
-I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx). I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through clean, efficient Node.js code.
+  I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx). I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through clean, efficient Node.js code.
 
 - **Full Stack Web Developer** - On Purpose Projects Agency - *2017 - 2021*
 
