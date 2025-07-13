@@ -81,41 +81,61 @@ Optimized backend and frontend performance for fast load times and smooth intera
 
 <br>
 
-[![API Integration](https://img.shields.io/badge/api%20integration-b897ff.svg)](https://shields.io/)
-[![AWS](https://img.shields.io/badge/aws-b897ff.svg)](https://shields.io/)
-[![Accessibility](https://img.shields.io/badge/accessibility-b897ff.svg)](https://shields.io/)
-[![Animations](https://img.shields.io/badge/animations-b897ff.svg)](https://shields.io/)
-[![CMS](https://img.shields.io/badge/cms-b897ff.svg)](https://shields.io/)
-[![CRM Integration](https://img.shields.io/badge/crm%20integration-b897ff.svg)](https://shields.io/)
-[![Crypto](https://img.shields.io/badge/crypto-b897ff.svg)](https://shields.io/)
-[![Cypress](https://img.shields.io/badge/cypress-b897ff.svg)](https://shields.io/)
-[![D3.js](https://img.shields.io/badge/d3.js-b897ff.svg)](https://shields.io/)
-[![DNS](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
-[![Docker](https://img.shields.io/badge/docker-b897ff.svg)](https://shields.io/)
-[![Git](https://img.shields.io/badge/git-b897ff.svg)](https://shields.io/)
-[![Gulp](https://img.shields.io/badge/gulp-b897ff.svg)](https://shields.io/)
-[![Gutenberg](https://img.shields.io/badge/gutenberg-b897ff.svg)](https://shields.io/)
-[![Jest](https://img.shields.io/badge/jest-b897ff.svg)](https://shields.io/)
-[![Next.js](https://img.shields.io/badge/next.js-b897ff.svg)](https://shields.io/)
-[![Node.js](https://img.shields.io/badge/node.js-b897ff.svg)](https://shields.io/)
-[![React](https://img.shields.io/badge/react-b897ff.svg)](https://shields.io/)
-[![Regex](https://img.shields.io/badge/regex-b897ff.svg)](https://shields.io/)
-[![Responsive Design](https://img.shields.io/badge/responsive%20design-b897ff.svg)](https://shields.io/)
-[![SQL Server](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
-[![SVG](https://img.shields.io/badge/svg-b897ff.svg)](https://shields.io/)
-[![Shell script](https://img.shields.io/badge/shell-b897ff.svg)](https://shields.io/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-b897ff.svg)](https://shields.io/)
-[![Typescript](https://img.shields.io/badge/typescript-b897ff.svg)](https://shields.io/)
-[![WebSockets](https://img.shields.io/badge/websockets-b897ff.svg)](https://shields.io/)
-[![WooCommerce](https://img.shields.io/badge/woocommerce-b897ff.svg)](https://shields.io/)
-[![esnext](https://img.shields.io/badge/esnext-b897ff.svg)](https://shields.io/)
+[![Accessibility](https://img.shields.io/badge/Accessibility-b897ff.svg)](https://www.w3.org/WAI/)
+[![Animations](https://img.shields.io/badge/Animations-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
+[![API Integration](https://img.shields.io/badge/API%20integration-b897ff.svg)](https://en.wikipedia.org/wiki/API)
+[![AWS](https://img.shields.io/badge/AWS-b897ff.svg)](https://aws.amazon.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-b897ff.svg)](https://www.cloudflare.com/)
+[![CMS](https://img.shields.io/badge/CMS-b897ff.svg)](https://en.wikipedia.org/wiki/Content_management_system)
+[![CRM Integration](https://img.shields.io/badge/CRM%20integration-b897ff.svg)](https://en.wikipedia.org/wiki/Customer_relationship_management)
+[![Crypto](https://img.shields.io/badge/Crypto-b897ff.svg)](https://en.wikipedia.org/wiki/Cryptocurrency)
+[![Cypress](https://img.shields.io/badge/Cypress-b897ff.svg)](https://www.cypress.io/)
+[![D3.js](https://img.shields.io/badge/D3.js-b897ff.svg)](https://d3js.org/)
+[![DNS](https://img.shields.io/badge/DNS-b897ff.svg)](https://www.cloudflare.com/learning/dns/what-is-dns/)
+[![Docker](https://img.shields.io/badge/Docker-b897ff.svg)](https://www.docker.com/)
+[![esnext](https://img.shields.io/badge/esNext-b897ff.svg)](https://tc39.es/ecma262/)
+[![Git](https://img.shields.io/badge/Git-b897ff.svg)](https://git-scm.com/)
+[![Github Actions](https://img.shields.io/badge/Github%20Actions-b897ff.svg)](https://github.com/features/actions/)
+[![Gulp](https://img.shields.io/badge/Gulp-b897ff.svg)](https://gulpjs.com/)
+[![Gutenberg](https://img.shields.io/badge/Gutenberg-b897ff.svg)](https://developer.wordpress.org/block-editor/)
+[![Jest](https://img.shields.io/badge/Jest-b897ff.svg)](https://jestjs.io/)
+[![Microservices](https://img.shields.io/badge/Microservices-b897ff.svg)](https://aws.amazon.com/en/microservices/)
+[![Network protocols](https://img.shields.io/badge/Network%20protocols-b897ff.svg)](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+[![Node.js](https://img.shields.io/badge/Node.js-b897ff.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-b897ff.svg)](https://react.dev/)
+[![Regex](https://img.shields.io/badge/Regex-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
+[![Responsive design](https://img.shields.io/badge/Responsive%20design-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+[![Shell script](https://img.shields.io/badge/Shell-b897ff.svg)](https://www.gnu.org/software/bash/)
+[![SQL Server](https://img.shields.io/badge/SQL-b897ff.svg)](https://learn.microsoft.com/en-us/sql/sql-server/)
+[![SVG](https://img.shields.io/badge/SVG-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-b897ff.svg)](https://tailwindcss.com/)
+[![Typescript](https://img.shields.io/badge/TypesSript-b897ff.svg)](https://www.typescriptlang.org/)
+[![Webpack](https://img.shields.io/badge/webpack-b897ff.svg)](https://webpack.js.org/)
+[![WebSockets](https://img.shields.io/badge/WebSockets-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-b897ff.svg)](https://woocommerce.com/)
 
 <br/>
 
 ## <a name="portfolio"></a>My Showcase
 
-<br/>
-<table>
+<br/><table>
+  <tr>
+    <td align="center"><strong>Web Different</strong></td>
+    <td align="center"><strong>My Freight</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td align="center"><strong>Blitz Design 2.0</strong></td>
     <td align="center"><strong>Blitz Design</strong></td>
@@ -132,67 +152,53 @@ Optimized backend and frontend performance for fast load times and smooth intera
       </a>
     </td>
   </tr>
+
   <tr>
-    <td align="center"><strong>My Freight</strong></td>
     <td align="center"><strong>Prophecy</strong></td>
+    <td align="center"><strong>Speedio</strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
-      </a>
-    </td>
     <td align="center">
       <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank">
         <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Speedio</strong></td>
-    <td align="center"><strong>Mark MacLeod</strong></td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
-    </td>
-    <td align="center">
-      <a href="https://web.archive.org/web/20220317124317/https://markmacleod.me/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/mark.png?raw=true" alt="Mark MacLeod" width="400"/>
+      <a href="https://speedio.com.br/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
       </a>
     </td>
   </tr>
+
   <tr>
+    <td align="center"><strong>Portiflow</strong></td>
     <td align="center"><strong>B2B Software Advisors</strong></td>
-    <td align="center"><strong>Web Different</strong></td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/portiflow.png?raw=true" alt="Portiflow" width="400"/>
+      </a>
+    </td>
     <td align="center">
       <a href="https://b2bsoftwareadvisors.com/" target="_blank">
         <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" width="400"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
       </a>
     </td>
   </tr>
 </table>
 
 
+
 <br/>
 
 ## <a name="recognition"></a> Achievement Trophies
 
-<br>
-
-
-| **Machine Learning** | **WordPress Expert** |
-|---|---|
-| <img alt="Machine Learning" src="machine-learning.png" width="450px"> | [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) |
-| **Meteor & React** | **Advanced English** |
-| <img alt="Meteor & React" src="react-certificate.jpg" width="450px"> | [![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
+| **AWS Solutions Architect** | **Cypress End-to-End Testing** | **Machine Learning** |
+|---|---|---|
+| [<img alt="Coming Soon" src="coming-soon.png" width="450px" title="AWS Solutions Architect - Coming Soon">](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | [<img alt="Cypress" src="cypress.jpg" width="450px">](https://www.udemy.com/certificate/UC-d5a50572-d3ac-4575-ae39-e1ae0ff98715/) | [<img alt="Machine Learning" src="machine-learning.png" width="450px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) |
+| **WordPress Expert** | **Meteor & React** | **Advanced English** |
+| [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | [<img alt="Meteor & React" src="react-certificate.jpg" width="450px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
 
 <br/>
 
