@@ -1,5 +1,6 @@
 <br><br><br>
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=👋%20Hey,%20I%20am%20Diogo!&fontSize=72)
+[![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=👋%20Hey,%20I%20am%20Diogo!&fontSize=72)](https://linkedin.com/in/diogoangelim)
+
 <br><br><br>
 ## Inside Scoop
 
