@@ -22,7 +22,7 @@ My goal is to join a forward-thinking team where I can build impactful digital p
 
 - **Software Engineer** - UnpairedSocks.org - *2024 - current (part time)*
 
-  At UnpairedSocks.org, I lead the full-stack development stack using Node.js, React, and Next.js to build scalable, high-performance systems. I focus on API integration, server-side rendering, and infrastructure optimization, leveraging tools like Lighthouse and DevTools for performance tuning. With a strong foundation in testing, system design, and problem-solving, I deliver clean, reliable code that supports long-term growth.
+  At UnpairedSocks.org, I lead the full-stack development team using Node.js, React, and Next.js to build scalable, high-performance systems. I focus on API integration, server-side rendering, and infrastructure optimization, leveraging tools like Lighthouse and DevTools for performance tuning. With a strong foundation in testing, system design, and problem-solving, I deliver clean, reliable code that supports long-term growth.
 
 - **Open Source Contributor** - Naubly (Self Employed) - *2022 - current*
 
