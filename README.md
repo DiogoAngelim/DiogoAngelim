@@ -195,9 +195,9 @@ Optimized backend and frontend performance for fast load times and smooth intera
 
 ## <a name="recognition"></a> Achievement Trophies
 
-| **Upwork Top Rated** | **Cypress End-to-End Testing** | **Machine Learning** |
+| **Upwork Top Rated** | **Mentor** | **Machine Learning** |
 |---|---|---|
-| [<img alt="Upwork Top Rated" src="upwork.png" width="450px" title="Upwork Top Rated">](https://upwork.com/fl/diogoangelim) | [<img alt="Cypress" src="cypress.jpg" width="450px">](https://www.udemy.com/certificate/UC-d5a50572-d3ac-4575-ae39-e1ae0ff98715/) | [<img alt="Machine Learning" src="machine-learning.png" width="450px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) |
+| [<img alt="Upwork Top Rated" src="upwork.png" width="450px" title="Upwork Top Rated">](https://upwork.com/fl/diogoangelim) | <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Contact me on Codementor" width="450px" /></a> | [<img alt="Machine Learning" src="machine-learning.png" width="450px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) |
 | **WordPress Expert** | **Meteor & React** | **Advanced English** |
 | [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | [<img alt="Meteor & React" src="react-certificate.jpg" width="450px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
 
