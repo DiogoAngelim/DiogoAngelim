@@ -30,7 +30,7 @@ My goal is to join a forward-thinking team where I can build impactful digital p
 
 - **Full Stack Web Developer** - On Purpose Projects Agency - *2017 - 2021*
 
-  Built and scaled a high-traffic MERN stack application, significantly increasing user engagement through responsive, dynamic interfaces.
+  Built and scaled high-traffic MERN stack applications, significantly increasing user engagement through responsive, dynamic interfaces.
 Implemented CI/CD pipelines to streamline deployment, ensuring rapid and reliable release cycles.
 Led a successful production launch with zero downtime, meeting performance and stability benchmarks.
 Optimized backend and frontend performance for fast load times and smooth interactivity, using tools like Lighthouse and DevTools.
