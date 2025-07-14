@@ -336,7 +336,7 @@ Optimized backend and frontend performance for fast load times and smooth intera
 
 <br/><br/>
 
-## <a name="reviews"> Reach out </a>
+## <a name="reviews"> Reach Out </a>
 
 <br/>
 
