@@ -335,3 +335,13 @@ Optimized backend and frontend performance for fast load times and smooth intera
 </details>
 
 <br/><br/>
+
+## <a name="reviews"> Reach out </a>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-hello@diogoangelim.dev-blue?style=flat&logo=gmail)](mailto:hello@diogoangelim.dev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
+
+[![LinkedIn](linkedin-badge.svg)](https://linkedin.com/in/diogoangelim)
