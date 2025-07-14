@@ -345,3 +345,5 @@ Optimized backend and frontend performance for fast load times and smooth intera
 [![LinkedIn](linkedin-badge.svg)](https://linkedin.com/in/diogoangelim)
 
 [![GitHub](https://img.shields.io/badge/-diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
+
+<br/><br/>
