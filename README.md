@@ -6,11 +6,11 @@
 
 <br/>
 
-I'm a JavaScript Developer focused on building scalable, high-performance web applications with React, Node.js, and Next.js. I’m passionate about finance, health, and technology, and I bring a detail-oriented mindset and strong grasp of the Software Development Lifecycle to every project. I thrive on solving complex problems through a balance of analytical thinking and creative engineering, consistently delivering clean, efficient, and maintainable code.
+I'm a JavaScript Developer 100% focused on building scalable, high-performance full-stack applications with React, Node.js, and Next.js. I’m passionate about finance, health, and technology, and I bring a detail-oriented mindset, with a strong grasp of the Software Development Lifecycle, to every project. I thrive on solving complex problems through a balance of analytical thinking and creative engineering, consistently delivering clean, efficient, and maintainable code.
 <br><br>
 My toolkit includes RESTful APIs, server-side rendering, real-time features, and performance optimization using tools like Lighthouse and Chrome DevTools. I follow best practices in testing, version control, and code scalability, and I value strong communication and collaboration.
 <br><br>
-My goal is to join a forward-thinking team where I can build impactful digital products, grow alongside talented developers, and contribute to solving meaningful real-world problems through code.
+My goal is to join a smart, forward-thinking team where I can build impactful digital products, grow alongside talented developers, and contribute to solving meaningful, real-world problems through code.
 
 
 
@@ -20,20 +20,17 @@ My goal is to join a forward-thinking team where I can build impactful digital p
 
 <br>
 
-- **Software Engineer** - UnpairedSocks.org - *2024 - current (part time)*
+- **Founder** - Html-to-Gutenberg.io - *2022 - current*
 
-  At UnpairedSocks.org, I lead the full-stack development team using Node.js, React, and Next.js to build scalable, high-performance systems. I focus on API integration, server-side rendering, and infrastructure optimization, leveraging tools like Lighthouse and DevTools for performance tuning. With a strong foundation in testing, system design, and problem-solving, I deliver clean, reliable code that supports long-term growth.
+  I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx). I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through efficient Node.js code.
 
-- **Open Source Contributor** - Naubly (Self Employed) - *2022 - current*
+- **Full-Stack Software Developer** - Union - *2025*
 
-  I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx). I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through clean, efficient Node.js code.
+  Contributed to the development of an ERP system using .NET, with responsibilities focused on implementing new features, resolving complex bugs, and improving overall system functionality. I collaborated with stakeholders and other experts to gather requirements and translate them into usable solutions. Through debugging, testing, and iterative improvements, I delivered high-performance code while contributing to a large software development ecosystem.
 
-- **Full Stack Web Developer** - On Purpose Projects Agency - *2017 - 2021*
+- **Full-Stack Web Developer** - On Purpose Projects - *2017 - 2021*
 
-  Built and scaled high-traffic MERN stack applications, significantly increasing user engagement through responsive, dynamic interfaces.
-Implemented CI/CD pipelines to streamline deployment, ensuring rapid and reliable release cycles.
-Led a successful production launch with zero downtime, meeting performance and stability benchmarks.
-Optimized backend and frontend performance for fast load times and smooth interactivity, using tools like Lighthouse and DevTools.
+  I built and shipped high-traffic MERN stack applications and websites, significantly increasing user engagement through responsive, dynamic interfaces. I implemented CI/CD pipelines to streamline deployment, ensuring rapid and reliable release cycles. By using my experience with Unix systems and tools like Lighthouse and DevTools, I optimized backend and frontend performance for fast load times and smooth interactivity. And by improving performance and stability benchmarks, I consistently delivered top-notch user experiences.
 
 <br>
 
@@ -114,6 +111,7 @@ Optimized backend and frontend performance for fast load times and smooth intera
 [![Webpack](https://img.shields.io/badge/webpack-b897ff.svg)](https://webpack.js.org/)
 [![WebSockets](https://img.shields.io/badge/WebSockets-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-b897ff.svg)](https://woocommerce.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-b897ff.svg)](https://stripe.com/)
 
 <br/>
 
