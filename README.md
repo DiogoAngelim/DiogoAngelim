@@ -6,9 +6,9 @@
 
 <br/>
 
-I'm a JavaScript Developer 100% focused on building scalable, high-performance full-stack applications with React, Node.js, and Next.js. I’m passionate about finance, health, and technology, and I bring a detail-oriented mindset, with a strong grasp of the Software Development Lifecycle, to every project. I thrive on solving complex problems through a balance of analytical thinking and creative engineering, consistently delivering clean, efficient, and maintainable code.
+I'm a Full-Stack Engineer 100% focused on building scalable, high-performance full-stack applications with React, Node.js, TypeScript, Python, Rust, and more. I’m passionate about finance, health, and technology, and I bring a detail-oriented mindset, with a strong grasp of the Software Development Lifecycle, to every project. I thrive on solving complex problems through a balance of analytical thinking and creative engineering, consistently delivering clean, efficient, and maintainable code.
 <br><br>
-My toolkit includes RESTful APIs, server-side rendering, real-time features, and performance optimization using tools like Lighthouse and Chrome DevTools. I follow best practices in testing, version control, and code scalability, and I value strong communication and collaboration.
+My toolkit includes RESTful APIs, server-side rendering, real-time features, and performance optimization, utilizing tools such as Lighthouse and Chrome DevTools. I follow best practices in testing, version control, and code scalability, and I value strong communication and collaboration.
 <br><br>
 My goal is to join a smart, forward-thinking team where I can build impactful digital products, grow alongside talented developers, and contribute to solving meaningful, real-world problems through code.
 
@@ -20,13 +20,17 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
 
 <br>
 
-- **Founder** - Html-to-Gutenberg.io - *2022 - current*
+- **Founder** - Risk Divider - *2022 - current*
 
-  I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx). I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through efficient Node.js code.
+  I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`risk-divider`](https://github.com/DiogoAngelim/risk-divider), [`html-to-gutenbeg`](https://html-to-gutenberg.io),[`node-html-to-jsx`](https://diogoangelim.github.io/html-to-jsx-demo/), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and more. I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through efficient Node.js code.
 
-- **Full-Stack Software Developer** - Union - *2025*
+- **Full-Stack Engineer** - Union - *2025*
 
   Contributed to the development of an ERP system using .NET, with responsibilities focused on implementing new features, resolving complex bugs, and improving overall system functionality. I collaborated with stakeholders and other experts to gather requirements and translate them into usable solutions. Through debugging, testing, and iterative improvements, I delivered high-performance code while contributing to a large software development ecosystem.
+
+- **Full-Stack Developer** - Codeable.io - *2021 - 2022*
+
+  Performed full-stack development with a focus on solid software architecture and efficient problem-solving. Built custom plugins, handled troubleshooting, implemented custom API integrations, and delivered secure, high-performing ecommerce solutions. Maintained high client satisfaction through clear communication, reliability, and consistent delivery.
 
 - **Full-Stack Web Developer** - On Purpose Projects - *2017 - 2021*
 
@@ -117,7 +121,25 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
 
 ## <a name="portfolio"></a>My Showcase
 
-<br/><table>
+<br/>
+<table>
+  <tr>
+    <td align="center"><strong>Speedio</strong></td>
+    <td align="center"><strong>Risk Divider</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://speedio.com.br/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://riskdivider.com" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/portiflow.png?raw=true" alt="Risk Divider" width="400"/>
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td align="center"><strong>Web Different</strong></td>
     <td align="center"><strong>My Freight</strong></td>
@@ -154,29 +176,12 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
 
   <tr>
     <td align="center"><strong>Prophecy</strong></td>
-    <td align="center"><strong>Speedio</strong></td>
+    <td align="center"><strong>B2B Software Advisors</strong></td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank">
         <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://speedio.com.br/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>Portiflow</strong></td>
-    <td align="center"><strong>B2B Software Advisors</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/portiflow.png?raw=true" alt="Portiflow" width="400"/>
       </a>
     </td>
     <td align="center">
@@ -186,7 +191,6 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
     </td>
   </tr>
 </table>
-
 
 
 <br/>
