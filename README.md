@@ -233,9 +233,10 @@ Work was completed to a high standard.
 
 **Adam Selley**
 
-<br/><br/>
+<br/>
+<br/>
 
-## Reach Out <a name="contact"></a>
+## Reach Out
 
 [![Email](https://img.shields.io/badge/hello%40diogoangelim.dev-blue?style=flat&logo=gmail)](mailto:hello@diogoangelim.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diogoangelim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogoangelim)
