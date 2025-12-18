@@ -10,9 +10,9 @@
 
 <br>
 I work across the stack using React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems through a strong understanding of the Software Development Lifecycle.
-
+<br/><br/>
 My work has supported products used by thousands of users, high-volume transactional systems, and AI-driven decision tools in finance and SaaS.
-<br><br>
+<br/><br/>
 
 ## Core Technologies
 
@@ -188,6 +188,7 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 ## Reviews <a name="reviews"></a>
 
+<br/>
 
 ### ⭐⭐⭐⭐⭐ Add Date Filtering to Plugin  
 **08 Dec 2021**
