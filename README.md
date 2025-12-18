@@ -2,124 +2,103 @@
 [![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=👋%20Hey,%20I%20am%20Diogo!&fontSize=72)](https://linkedin.com/in/diogoangelim)
 
 <br><br><br>
-## Inside Scoop
+## About
+
+<br>
+
+> **Full-Stack Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
+
+<br>
+I work across the stack with React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems with a strong focus on reliability, security, and long-term maintainability.
+
+I’ve built and scaled platforms in finance, healthcare, real estate, and technology, designing APIs, automation workflows, data pipelines, and user-facing interfaces that reduce manual effort and simplify complex processes. I collaborate closely with stakeholders, apply strong software architecture principles, and consistently ship clean, efficient code that performs under real-world constraints.
+<br><br>
+
+## Core Technologies
+
+<br>
+
+
+### Core Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-E5E7EB?style=flat&color=E5E7EB&labelColor=E5E7EB)
+![TypeScript](https://img.shields.io/badge/TypeScript-E5E7EB?style=flat&color=E5E7EB)
+![React](https://img.shields.io/badge/React-E5E7EB?style=flat&color=E5E7EB)
+![Next.js](https://img.shields.io/badge/Next.js-E5E7EB?style=flat&color=E5E7EB)
+![Node.js](https://img.shields.io/badge/Node.js-E5E7EB?style=flat&color=E5E7EB)
+![Express.js](https://img.shields.io/badge/Express.js-E5E7EB?style=flat&color=E5E7EB)
+
+### Data, AI & Visualization
+![Python](https://img.shields.io/badge/Python-F1F5F9?style=flat&color=F1F5F9)
+![PyTorch](https://img.shields.io/badge/PyTorch-F1F5F9?style=flat&color=F1F5F9)
+![D3.js](https://img.shields.io/badge/D3.js-F1F5F9?style=flat&color=F1F5F9)
+![SQL](https://img.shields.io/badge/SQL-F1F5F9?style=flat&color=F1F5F9)
+![Caching](https://img.shields.io/badge/Caching-F1F5F9?style=flat&color=F1F5F9)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F8FAFC?style=flat&color=F8FAFC)
+![MySQL](https://img.shields.io/badge/MySQL-F8FAFC?style=flat&color=F8FAFC)
+![MongoDB](https://img.shields.io/badge/MongoDB-F8FAFC?style=flat&color=F8FAFC)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-F8FAFC?style=flat&color=F8FAFC)
+
+### Infrastructure, Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-F9FAFB?style=flat&color=F9FAFB)
+![Docker](https://img.shields.io/badge/Docker-F9FAFB?style=flat&color=F9FAFB)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F9FAFB?style=flat&color=F9FAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F9FAFB?style=flat&color=F9FAFB)
+![Unix](https://img.shields.io/badge/Unix-F9FAFB?style=flat&color=F9FAFB)
+![SSH](https://img.shields.io/badge/SSH-F9FAFB?style=flat&color=F9FAFB)
+
+### APIs, Automation & Platforms
+![REST APIs](https://img.shields.io/badge/REST%20APIs-F3F4F6?style=flat&color=F3F4F6)
+![WebSockets](https://img.shields.io/badge/WebSockets-F3F4F6?style=flat&color=F3F4F6)
+![Authentication](https://img.shields.io/badge/Authentication-F3F4F6?style=flat&color=F3F4F6)
+![n8n](https://img.shields.io/badge/n8n-F3F4F6?style=flat&color=F3F4F6)
+![ERP](https://img.shields.io/badge/ERP-F3F4F6?style=flat&color=F3F4F6)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-F3F4F6?style=flat&color=F3F4F6)
+
+<br><br>
+
+## <a name="work"></a> Experience 
+
+<br>
+
+- **Software Engineer & Founder** - Risk Divider - *2022 - current*
+
+  Building AI-driven portfolio optimization tools for retail investors. Developed custom AI models that help users reduce risk and improve returns across stocks, crypto, and currencies. Early users experienced a 3X improvement in risk-adjusted performance. Focused on making investing smarter and more accessible without relying on traditional advisors.
+
+- **Software Engineer** - Union Sistemas de Desenvolvimento - *2025*
+
+  Contributed to the development of a high-impact ERP system using .NET, processing billions in transactions and serving local companies with global reach. My responsibilities included implementing new features, resolving complex bugs, and enhancing overall system functionality. I collaborated with stakeholders and subject matter experts to translate requirements into actionable solutions. Notably, I identified and resolved critical accounting mismatches that could have caused massive losses, ensuring accuracy and reliability across the platform. Through rigorous debugging, testing, and iterative improvements, I delivered high-performance code while contributing to a large-scale software ecosystem.
+
+- **Software Engineer** - Codeable Aps - *2021 - 2022*
+
+  Performed full-stack development with a focus on solid software architecture and efficient problem-solving. Built custom plugins, handled troubleshooting, implemented custom API integrations, and delivered secure, high-performing e-commerce solutions. Successfully migrated 300+ paying customers to a new payment processor, alleviating complexity for the client, ensuring fast delivery, and saving both time and money. Maintained high client satisfaction through clear communication, reliability, and consistent delivery.
+
+- **Software Engineer** - On Purpose Projects - *2017 - 2021*
+
+  Built and scaled websites from small projects to high-traffic platforms serving thousands of daily visitors, ensuring performance, compatibility, security, and maintainability. Engineered scalable web architectures that maintained fast load times under heavy traffic, implemented security best practices to protect client data, and optimized site performance, reducing page load times by up to 40%. Delivered client-focused solutions that translated designs into functional, pixel-perfect websites while establishing maintainable coding standards and documentation, streamlining collaboration, and reducing future development time.
+  
+<br>
+
+## <a name="education"></a> Education
+
+<br>
+
+**Computer Science** — Undergraduate (Incomplete)  
+Estácio de Sá | 2018 – 2019
+
+**Economics** — Undergraduate (Incomplete)  
+Universidade Federal de Viçosa | 2012 – 2014
+
+**Software Engineering** — Associate (Incomplete)  
+Instituto Federal de Educação, Ciência e Tecnologia | 2008 – 2010
+
+**English Language & Advanced Proficiency** — Completed  
+Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 <br/>
 
-I'm a Full-Stack Engineer 100% focused on building scalable, high-performance full-stack applications with React, Node.js, TypeScript, Python, Rust, and more. I’m passionate about finance, health, and technology, and I bring a detail-oriented mindset, with a strong grasp of the Software Development Lifecycle, to every project. I thrive on solving complex problems through a balance of analytical thinking and creative engineering, consistently delivering clean, efficient, and maintainable code.
-<br><br>
-My toolkit includes RESTful APIs, server-side rendering, real-time features, and performance optimization, utilizing tools such as Lighthouse and Chrome DevTools. I follow best practices in testing, version control, and code scalability, and I value strong communication and collaboration.
-<br><br>
-My goal is to join a smart, forward-thinking team where I can build impactful digital products, grow alongside talented developers, and contribute to solving meaningful, real-world problems through code.
-
-
-
-<br><br>
-
-## <a name="work"></a> Craft 
-
-<br>
-
-- **Founder** - Risk Divider - *2022 - current*
-
-  I actively contribute to the open-source ecosystem through Node.js projects on npm and GitHub, including [`risk-divider`](https://github.com/DiogoAngelim/risk-divider), [`html-to-gutenbeg`](https://html-to-gutenberg.io),[`node-html-to-jsx`](https://diogoangelim.github.io/html-to-jsx-demo/), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and more. I transform ideas into practical tools, promote collaboration, and help drive the developer community forward through efficient Node.js code.
-
-- **Full-Stack Engineer** - Union - *2025*
-
-  Contributed to the development of an ERP system using .NET, with responsibilities focused on implementing new features, resolving complex bugs, and improving overall system functionality. I collaborated with stakeholders and other experts to gather requirements and translate them into usable solutions. Through debugging, testing, and iterative improvements, I delivered high-performance code while contributing to a large software development ecosystem.
-
-- **Full-Stack Developer** - Codeable.io - *2021 - 2022*
-
-  Performed full-stack development with a focus on solid software architecture and efficient problem-solving. Built custom plugins, handled troubleshooting, implemented custom API integrations, and delivered secure, high-performing ecommerce solutions. Maintained high client satisfaction through clear communication, reliability, and consistent delivery.
-
-- **Full-Stack Web Developer** - On Purpose Projects - *2017 - 2021*
-
-  I built and shipped high-traffic MERN stack applications and websites, significantly increasing user engagement through responsive, dynamic interfaces. I implemented CI/CD pipelines to streamline deployment, ensuring rapid and reliable release cycles. By using my experience with Unix systems and tools like Lighthouse and DevTools, I optimized backend and frontend performance for fast load times and smooth interactivity. And by improving performance and stability benchmarks, I consistently delivered top-notch user experiences.
-
-<br>
-
-## <a name="education"></a> Knowledge Quest 
-
-<br>
-
-- **Computer Science** - Estácio de Sá - *2018 - 2019*
-- **Economics** - Universidade Federal de Viçosa - *2012 - 2014* 
-- **Software Engineering** - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010*
-- **English Language** - Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
-
-
-<br>
-
-## <a name="languages"></a> Tongues
-
-<br>
-
-- 🇧🇷 Português 
-- 🇺🇸 English 
-- 🇪🇸 Español
-- 🇫🇷 Français
-
-<br>
-
-## <a name="services"></a> Array of services
-
-<br>
-
-| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/coding.png?raw=true" alt="Design" style="width:80px;"/><br><br>**Design<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/customization.png?raw=true" alt="Customization" style="width:80px;"/><br><br>**Backend Development**<br><br> |
-|:---:|:---:|
-| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/design.png?raw=true" alt="WordPress Design" style="width:80px;"/><br><br>**Frontend Development<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/seo.png?raw=true" alt="SEO" style="width:80px;"/><br><br>**DevOps** <br><br>|
-
-<br>
-
-## <a name="skills"></a> Tech Wizardry
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoangelim&layout=compact)
-
-<br>
-
-## Coding Prowess
-
-<br>
-
-[![Accessibility](https://img.shields.io/badge/Accessibility-b897ff.svg)](https://www.w3.org/WAI/)
-[![Animations](https://img.shields.io/badge/Animations-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
-[![API Integration](https://img.shields.io/badge/API%20integration-b897ff.svg)](https://en.wikipedia.org/wiki/API)
-[![AWS](https://img.shields.io/badge/AWS-b897ff.svg)](https://aws.amazon.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-b897ff.svg)](https://www.cloudflare.com/)
-[![CMS](https://img.shields.io/badge/CMS-b897ff.svg)](https://en.wikipedia.org/wiki/Content_management_system)
-[![CRM Integration](https://img.shields.io/badge/CRM%20integration-b897ff.svg)](https://en.wikipedia.org/wiki/Customer_relationship_management)
-[![Crypto](https://img.shields.io/badge/Crypto-b897ff.svg)](https://en.wikipedia.org/wiki/Cryptocurrency)
-[![Cypress](https://img.shields.io/badge/Cypress-b897ff.svg)](https://www.cypress.io/)
-[![D3.js](https://img.shields.io/badge/D3.js-b897ff.svg)](https://d3js.org/)
-[![DNS](https://img.shields.io/badge/DNS-b897ff.svg)](https://www.cloudflare.com/learning/dns/what-is-dns/)
-[![Docker](https://img.shields.io/badge/Docker-b897ff.svg)](https://www.docker.com/)
-[![esnext](https://img.shields.io/badge/esNext-b897ff.svg)](https://tc39.es/ecma262/)
-[![Git](https://img.shields.io/badge/Git-b897ff.svg)](https://git-scm.com/)
-[![Github Actions](https://img.shields.io/badge/Github%20Actions-b897ff.svg)](https://github.com/features/actions/)
-[![Gulp](https://img.shields.io/badge/Gulp-b897ff.svg)](https://gulpjs.com/)
-[![Gutenberg](https://img.shields.io/badge/Gutenberg-b897ff.svg)](https://developer.wordpress.org/block-editor/)
-[![Jest](https://img.shields.io/badge/Jest-b897ff.svg)](https://jestjs.io/)
-[![Microservices](https://img.shields.io/badge/Microservices-b897ff.svg)](https://aws.amazon.com/en/microservices/)
-[![Network protocols](https://img.shields.io/badge/Network%20protocols-b897ff.svg)](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
-[![Node.js](https://img.shields.io/badge/Node.js-b897ff.svg)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-b897ff.svg)](https://react.dev/)
-[![Regex](https://img.shields.io/badge/Regex-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
-[![Responsive design](https://img.shields.io/badge/Responsive%20design-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
-[![Shell script](https://img.shields.io/badge/Shell-b897ff.svg)](https://www.gnu.org/software/bash/)
-[![SQL Server](https://img.shields.io/badge/SQL-b897ff.svg)](https://learn.microsoft.com/en-us/sql/sql-server/)
-[![SVG](https://img.shields.io/badge/SVG-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-b897ff.svg)](https://tailwindcss.com/)
-[![Typescript](https://img.shields.io/badge/TypesSript-b897ff.svg)](https://www.typescriptlang.org/)
-[![Webpack](https://img.shields.io/badge/webpack-b897ff.svg)](https://webpack.js.org/)
-[![WebSockets](https://img.shields.io/badge/WebSockets-b897ff.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-b897ff.svg)](https://woocommerce.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-b897ff.svg)](https://stripe.com/)
-
-<br/>
-
-## <a name="portfolio"></a>My Showcase
+## <a name="portfolio"></a>Portfolio
 
 <br/>
 <table>
@@ -195,19 +174,19 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
 
 <br/>
 
-## <a name="recognition"></a> Achievement Trophies
-
-| **Upwork Top Rated** | **Mentor** | **Machine Learning** |
+## <a name="recognition"></a> Certifications & Recognition
+<br><br>
+| **Mentor** | **Upwork Top Rated** | **WordPress Expert** |
 |---|---|---|
-| [<img alt="Upwork Top Rated" src="upwork.png" width="450px" title="Upwork Top Rated">](https://upwork.com/fl/diogoangelim) | <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Contact me on Codementor" width="450px" /></a> | [<img alt="Machine Learning" src="machine-learning.png" width="450px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) |
-| **WordPress Expert** | **Meteor & React** | **Advanced English** |
-| [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | [<img alt="Meteor & React" src="react-certificate.jpg" width="450px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
+| <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor Mentor" width="450px" /></a> | [<img alt="Upwork Top Rated" src="upwork.png" width="450px">](https://upwork.com/fl/diogoangelim) | [<img alt="Codeable WordPress Expert" src="codeable.png" width="450px">](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) |
+| **Machine Learning** | **Meteor & React** | **Advanced English** |
+| [<img alt="Machine Learning Certificate" src="machine-learning.png" width="450px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) | [<img alt="Meteor & React Certificate" src="react-certificate.jpg" width="450px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [<img alt="Advanced English" src="acbeu.png" width="450px">](https://acbeujf.com.br/) |
 
 <br/>
 
 <br/>
 
-## <a name="reviews"> Client Chronicles </a>
+## <a name="reviews"> Reviews </a>
 
 <br/>
 
@@ -221,7 +200,6 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
   Paul Morin
 </details>
 
-<br/>
 
 <details>
   <summary><b>PaidMembershipPro to Paid Member Subscriptions</b> 29 Nov 2021 ⭐⭐⭐⭐⭐</summary>
@@ -233,7 +211,6 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
   Robert Johnson
 </details>
 
-<br/>
 
 <details>
   <summary><b>I need some coding.</b> 19 Nov 2021 ⭐⭐⭐⭐⭐</summary>
@@ -245,100 +222,20 @@ My goal is to join a smart, forward-thinking team where I can build impactful di
   Carman Chung
 </details>
 
-<br/>
 
 <details>
   <summary><b>Pushing Local Pickup Plus options to Shipping.</b> 01 Nov 2021 ⭐⭐⭐⭐⭐</summary>
   <br/>
-  Fast, and super easy to work with. Work was completed to a high standard.
+  Fast and super easy to work with. Work was completed to a high standard.
   <br/><br/>
   <img src="adam.png" alt="Adam Selley" style="width:64px;"/>
   <br/>
   Adam Selley
 </details>
 
-<br/>
-
-<details>
-  <summary><b>I need help architecting a 10,000-page site with data-generated pages connected to external APIs.</b> 19 Oct 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  Helpful call with Diogo as he helped me scope out my project and contributed new and interesting insights that can be used in the project! 
-  <br/><br/>
-  <img src="joe.png" alt="Joe Robison" style="width:64px;"/>
-  <br/>
-  Joe Robison
-</details>
-
-<br/>
-
-<details>
-  <summary><b>I need spring cleaning on my WordPress website.</b> 07 Oct 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  Diogo is the website help I have been looking for. By far the best person I've hired yet to help me. 
-  <br/><br/>
-  <img src="shane.png" alt="Shane Baker" style="width:64px;"/>
-  <br/>
-  Shane Baker
-</details>
-
-<br/>
-
-<details>
-  <summary><b>Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin.)</b> 24 Aug 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  In addition to the original scope of the project, there were many additional tasks, and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project, we both had some valuable takeaways. Great job! 
-  <br/><br/>
-  <img src="rudolfs.png" alt="Rudlfs Dzenis" style="width:64px;"/>
-  <br/>
-  Rudolfs Dzenis
-</details>
-
-<br/>
-
-<details>
-  <summary><b>WordPress customization</b> 01 Nov 2019 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  I've been hiring developers for years, but Diogo is by far the best one I've ever worked with. He is always available to talk and always sends updates regarding the project. If all developers were like him, it would make my life much easier.
-  
-  The code and consistency of the project were amazing, and it surprised the management with all the suggestions he gave us. The project was delivered 2 days before the deadline.
-  
-  Will be hiring again for sure!
-  
-  Thanks Diogo!
-  <br/>
-  Matheus Oliveira
-</details>
-
-<br/>
-
-<details>
-  <summary><b>Text animation using CSS and JavaScript</b> 05 Jun 2019 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  Diogo did an excellent job and came up with great workarounds to challenges.
-  Great to have a developer who understands design.
-  
-  Will work with Diogo again for sure!
-  <br/><br/>
-  <img src="jenna.png" alt="Jenna Farrell" style="width:64px;"/>
-  <br/>
-  Jenna Farrell
-</details>
-
-<br/>
-
-<details>
-  <summary><b>Website edits and custom animation</b> 01 Apr 2019 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  Diogo does excellent website work and always delivers on time. I appreciate that he works very hard to deliver top quality.
-  <br/><br/>
-  <img src="natasha.png" alt="Natasha Golinsky" style="width:64px;"/>
-  <br/>
-  Natasha Golinsky
-</details>
-
 <br/><br/>
 
-## <a name="reviews"> Reach Out </a>
+## <a name="contact"> Reach Out </a>
 
 <br/>
 
