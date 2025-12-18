@@ -188,43 +188,50 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 ## Reviews <a name="reviews"></a>
 
-<details>
-  <summary><strong>Add Date Filtering to Plugin</strong> — 08 Dec 2021 ⭐⭐⭐⭐⭐</summary>
 
-  Diogo delivered above and beyond what was expected.
+### ⭐⭐⭐⭐⭐ Add Date Filtering to Plugin  
+**08 Dec 2021**
 
-  **Paul Morin**
-</details>
+Diogo delivered above and beyond what was expected.
 
-<details>
-  <summary><strong>PaidMembershipPro to Paid Member Subscriptions</strong> — 29 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+**Paul Morin**
 
-  Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project!
 
-  <img src="robert.png" alt="Robert Johnson" width="64" />
 
-  **Robert Johnson**
-</details>
+### ⭐⭐⭐⭐⭐ PaidMembershipPro to Paid Member Subscriptions  
+**29 Nov 2021**
 
-<details>
-  <summary><strong>I need some coding.</strong> — 19 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+Diogo was fantastic and went above and beyond my expectations.  
+He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges.  
+I'm ready to hire him for my next project!
 
-  Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted. He always replied within an hour — amazing.
+<img src="robert.png" alt="Robert Johnson" width="64" />
 
-  <img src="carman.png" alt="Carman Chung" width="64" />
+**Robert Johnson**
 
-  **Carman Chung**
-</details>
 
-<details>
-  <summary><strong>Pushing Local Pickup Plus options to Shipping</strong> — 01 Nov 2021 ⭐⭐⭐⭐⭐</summary>
 
-  Fast and super easy to work with. Work was completed to a high standard.
+### ⭐⭐⭐⭐⭐ I need some coding  
+**19 Nov 2021**
 
-  <img src="adam.png" alt="Adam Selley" width="64" />
+Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted.  
+He always replied within an hour! This is amazing.
 
-  **Adam Selley**
-</details>
+<img src="carman.png" alt="Carman Chung" width="64" />
+
+**Carman Chung**
+
+
+
+### ⭐⭐⭐⭐⭐ Pushing Local Pickup Plus options to Shipping  
+**01 Nov 2021**
+
+Fast and super easy to work with.  
+Work was completed to a high standard.
+
+<img src="adam.png" alt="Adam Selley" width="64" />
+
+**Adam Selley**
 
 <br/><br/>
 
