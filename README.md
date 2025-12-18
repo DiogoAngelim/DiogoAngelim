@@ -178,9 +178,9 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <br><br>
 | **Mentor** | **Upwork Top Rated** | **WordPress Expert** |
 |---|---|---|
-| <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor Mentor" width="450px" /></a> | [<img alt="Upwork Top Rated" src="upwork.png" width="450px">](https://upwork.com/fl/diogoangelim) | [<img alt="Codeable WordPress Expert" src="codeable.png" width="450px">](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) |
+| <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor Mentor" width="260px" /></a> | [<img alt="Upwork Top Rated" src="upwork.png" width="260px">](https://upwork.com/fl/diogoangelim) | [<img alt="Codeable WordPress Expert" src="codeable.png" width="260px">](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) |
 | **Machine Learning** | **Meteor & React** | **Advanced English** |
-| [<img alt="Machine Learning Certificate" src="machine-learning.png" width="450px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) | [<img alt="Meteor & React Certificate" src="react-certificate.jpg" width="450px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [<img alt="Advanced English" src="acbeu.png" width="450px">](https://acbeujf.com.br/) |
+| [<img alt="Machine Learning Certificate" src="machine-learning.png" width="260px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) | [<img alt="Meteor & React Certificate" src="react-certificate.jpg" width="260px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [<img alt="Advanced English" src="acbeu.png" width="260px">](https://acbeujf.com.br/) |
 
 <br/>
 
@@ -205,7 +205,7 @@ Diogo was fantastic and went above and beyond my expectations.
 He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges.  
 I'm ready to hire him for my next project!
 
-<img src="robert.png" alt="Robert Johnson" width="64" />
+<img src="robert.png" alt="Robert Johnson" width="48" />
 
 **Robert Johnson**
 
@@ -217,7 +217,7 @@ I'm ready to hire him for my next project!
 Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted.  
 He always replied within an hour! This is amazing.
 
-<img src="carman.png" alt="Carman Chung" width="64" />
+<img src="carman.png" alt="Carman Chung" width="48" />
 
 **Carman Chung**
 
@@ -229,7 +229,7 @@ He always replied within an hour! This is amazing.
 Fast and super easy to work with.  
 Work was completed to a high standard.
 
-<img src="adam.png" alt="Adam Selley" width="64" />
+<img src="adam.png" alt="Adam Selley" width="48" />
 
 **Adam Selley**
 
