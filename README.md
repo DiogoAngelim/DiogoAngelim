@@ -186,65 +186,53 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 <br/>
 
-## <a name="reviews"></a> Reviews 
-
-<br/>
-
-<br/>
+## Reviews <a name="reviews"></a>
 
 <details>
-  <summary><b>Add Date Filtering to Plugin</b> 08 Dec 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  Diogo delivered above and beyond what was expected. 
-  <br/><br/>
-  Paul Morin
+  <summary><strong>Add Date Filtering to Plugin</strong> — 08 Dec 2021 ⭐⭐⭐⭐⭐</summary>
+
+  Diogo delivered above and beyond what was expected.
+
+  **Paul Morin**
 </details>
 
-
 <details>
-  <summary><b>PaidMembershipPro to Paid Member Subscriptions</b> 29 Nov 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
+  <summary><strong>PaidMembershipPro to Paid Member Subscriptions</strong> — 29 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+
   Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project!
-  <br/><br/>
-  <img src="robert.png" alt="Robert Johnson" style="width:64px;"/>
-  <br/>
-  Robert Johnson
+
+  <img src="robert.png" alt="Robert Johnson" width="64" />
+
+  **Robert Johnson**
 </details>
 
-
 <details>
-  <summary><b>I need some coding.</b> 19 Nov 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
-  Diogo is very efficient. He listened patiently to all my needs and helped me to accomplish exactly what I wanted. And he always replied within an hour! This is amazing. 
-  <br/><br/>
-  <img src="carman.png" alt="Carman Chung" style="width:64px;"/>
-  <br/>
-  Carman Chung
+  <summary><strong>I need some coding.</strong> — 19 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+
+  Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted. He always replied within an hour — amazing.
+
+  <img src="carman.png" alt="Carman Chung" width="64" />
+
+  **Carman Chung**
 </details>
 
-
 <details>
-  <summary><b>Pushing Local Pickup Plus options to Shipping.</b> 01 Nov 2021 ⭐⭐⭐⭐⭐</summary>
-  <br/>
+  <summary><strong>Pushing Local Pickup Plus options to Shipping</strong> — 01 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+
   Fast and super easy to work with. Work was completed to a high standard.
-  <br/><br/>
-  <img src="adam.png" alt="Adam Selley" style="width:64px;"/>
-  <br/>
-  Adam Selley
+
+  <img src="adam.png" alt="Adam Selley" width="64" />
+
+  **Adam Selley**
 </details>
 
 <br/><br/>
 
-## <a name="contact"> Reach Out </a>
+## Reach Out <a name="contact"></a>
 
-<br/>
-
-[![Email](https://img.shields.io/badge/-hello@diogoangelim.dev-blue?style=flat&logo=gmail)](mailto:hello@diogoangelim.dev)
-
-[![LinkedIn](linkedin-badge.svg)](https://linkedin.com/in/diogoangelim)
-
-[![Website](https://img.shields.io/badge/riskdivider.com-1f2937?style=flat-square&logo=google-chrome&logoColor=white)](https://riskdivider.com)
-
-[![GitHub](https://img.shields.io/badge/-diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
+[![Email](https://img.shields.io/badge/hello%40diogoangelim.dev-blue?style=flat&logo=gmail)](mailto:hello@diogoangelim.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogoangelim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogoangelim)
+[![Website](https://img.shields.io/badge/riskdivider.com-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://riskdivider.com)
+[![GitHub](https://img.shields.io/badge/diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
 
 <br/><br/>
