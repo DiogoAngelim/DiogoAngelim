@@ -9,9 +9,9 @@
 > **Full-Stack Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
 
 <br>
-I work across the stack with React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems with a strong focus on reliability, security, and long-term maintainability.
+I work across the stack using React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems through a strong understanding of the Software Development Lifecycle.
 
-I’ve built and scaled platforms in finance, healthcare, real estate, and technology, designing APIs, automation workflows, data pipelines, and user-facing interfaces that reduce manual effort and simplify complex processes. I collaborate closely with stakeholders, apply strong software architecture principles, and consistently ship clean, efficient code that performs under real-world constraints.
+My work has supported products used by thousands of users, high-volume transactional systems, and AI-driven decision tools in finance and SaaS.
 <br><br>
 
 ## Core Technologies
@@ -64,7 +64,7 @@ I’ve built and scaled platforms in finance, healthcare, real estate, and techn
 
 - **Software Engineer & Founder** - Risk Divider - *2022 - current*
 
-  Building AI-driven portfolio optimization tools for retail investors. Developed custom AI models that help users reduce risk and improve returns across stocks, crypto, and currencies. Early users experienced a 3X improvement in risk-adjusted performance. Focused on making investing smarter and more accessible without relying on traditional advisors.
+  Building AI-driven portfolio optimization tools for retail investors. Developed custom AI and statistical models that help users reduce risk and improve returns across stocks, crypto, and currencies. Early users experienced a 3X improvement in risk-adjusted performance. Focused on making investing smarter and more accessible without relying on traditional advisors.
 
 - **Software Engineer** - Union Sistemas de Desenvolvimento - *2025*
 
