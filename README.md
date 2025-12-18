@@ -243,6 +243,8 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 [![LinkedIn](linkedin-badge.svg)](https://linkedin.com/in/diogoangelim)
 
+[![Website](https://img.shields.io/badge/riskdivider.com-1f2937?style=flat-square&logo=google-chrome&logoColor=white)](https://riskdivider.com)
+
 [![GitHub](https://img.shields.io/badge/-diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
 
 <br/><br/>
