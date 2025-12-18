@@ -186,7 +186,7 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 <br/>
 
-## Reviews <a name="reviews"></a>
+## Feedback <a name="reviews"></a>
 
 <br/>
 
