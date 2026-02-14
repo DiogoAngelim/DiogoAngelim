@@ -114,7 +114,7 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
     </td>
     <td align="center">
       <a href="https://riskdivider.com" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/portiflow.png?raw=true" alt="Risk Divider" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/coming-soon.png?raw=true" alt="Risk Divider" width="400"/>
       </a>
     </td>
   </tr>
@@ -206,7 +206,7 @@ Diogo was fantastic and went above and beyond my expectations.
 He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges.  
 I'm ready to hire him for my next project!
 
-<img src="robert.png" alt="Robert Johnson" width="48" />
+<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/robert.png?raw=true" alt="Robert Johnson" width="48" />
 
 **Robert Johnson**
 
@@ -218,7 +218,7 @@ I'm ready to hire him for my next project!
 Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted.  
 He always replied within an hour! This is amazing.
 
-<img src="carman.png" alt="Carman Chung" width="48" />
+<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/carman.png?raw=true" alt="Carman Chung" width="48" />
 
 **Carman Chung**
 
@@ -230,7 +230,7 @@ He always replied within an hour! This is amazing.
 Fast and super easy to work with.  
 Work was completed to a high standard.
 
-<img src="adam.png" alt="Adam Selley" width="48" />
+<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/adam.png?raw=true" alt="Adam Selley" width="48" />
 
 **Adam Selley**
 
