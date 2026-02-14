@@ -109,12 +109,12 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   <tr>
     <td align="center">
       <a href="https://speedio.com.br/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
       </a>
     </td>
     <td align="center">
       <a href="https://riskdivider.com" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/portiflow.png?raw=true" alt="Risk Divider" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/portiflow.png?raw=true" alt="Risk Divider" width="400"/>
       </a>
     </td>
   </tr>
@@ -126,12 +126,12 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   <tr>
     <td align="center">
       <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
       </a>
     </td>
     <td align="center">
       <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
       </a>
     </td>
   </tr>
@@ -143,12 +143,12 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   <tr>
     <td align="center">
       <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitz-2.0.gif?raw=true" alt="Blitz Design 2.0" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/blitz-2.0.gif?raw=true" alt="Blitz Design 2.0" width="400"/>
       </a>
     </td>
     <td align="center">
       <a href="https://codepen.io/digelim/pen/wbOggK" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" width="400"/>
       </a>
     </td>
   </tr>
@@ -160,12 +160,12 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   <tr>
     <td align="center">
       <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
       </a>
     </td>
     <td align="center">
       <a href="https://b2bsoftwareadvisors.com/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" width="400"/>
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" width="400"/>
       </a>
     </td>
   </tr>
@@ -178,9 +178,9 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <br><br>
 | **Mentor** | **Upwork Top Rated** | **WordPress Expert** |
 |---|---|---|
-| <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor Mentor" width="260px" /></a> | [<img alt="Upwork Top Rated" src="upwork.png" width="260px">](https://upwork.com/fl/diogoangelim) | [<img alt="Codeable WordPress Expert" src="codeable.png" width="260px">](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) |
+| <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor Mentor" width="260px" /></a> | [<img alt="Upwork Top Rated" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/upwork.png?raw=true" width="260px">](https://upwork.com/fl/diogoangelim) | [<img alt="Codeable WordPress Expert" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true" width="260px">](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) |
 | **Machine Learning** | **Meteor & React** | **Advanced English** |
-| [<img alt="Machine Learning Certificate" src="machine-learning.png" width="260px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) | [<img alt="Meteor & React Certificate" src="react-certificate.jpg" width="260px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [<img alt="Advanced English" src="acbeu.png" width="260px">](https://acbeujf.com.br/) |
+| [<img alt="Machine Learning Certificate" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true" width="260px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) | [<img alt="Meteor & React Certificate" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/react-certificate.jpg?raw=true" width="260px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [<img alt="Advanced English" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/acbeu.png?raw=true" width="260px">](https://acbeujf.com.br/) |
 
 <br/>
 
