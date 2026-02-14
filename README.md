@@ -176,11 +176,65 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
 ## <a name="recognition"></a> Certifications & Recognition
 <br><br>
-| **Mentor** | **Upwork Top Rated** | **WordPress Expert** |
-|---|---|---|
-| <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank"><img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor Mentor" width="260px" /></a> | [<img alt="Upwork Top Rated" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/upwork.png?raw=true" width="260px">](https://upwork.com/fl/diogoangelim) | [<img alt="Codeable WordPress Expert" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true" width="260px">](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) |
-| **Machine Learning** | **Meteor & React** | **Advanced English** |
-| [<img alt="Machine Learning Certificate" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true" width="260px">](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR) | [<img alt="Meteor & React Certificate" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/react-certificate.jpg?raw=true" width="260px">](https://www.udemy.com/certificate/UC-B6FCSY38/) | [<img alt="Advanced English" src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/acbeu.png?raw=true" width="260px">](https://acbeujf.com.br/) |
+<table>
+  <tr>
+    <th>Mentor</th>
+    <th>Upwork Top Rated</th>
+    <th>WordPress Expert</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank">
+        <img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg"
+             alt="Codementor Mentor"
+             width="260px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://upwork.com/fl/diogoangelim" target="_blank">
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/upwork.png?raw=true"
+             alt="Upwork Top Rated"
+             width="260px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true" target="_blank">
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true"
+             alt="Codeable WordPress Expert"
+             width="260px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Machine Learning</th>
+    <th>Meteor & React</th>
+    <th>Advanced English</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR" target="_blank">
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true"
+             alt="Machine Learning Certificate"
+             width="260px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/certificate/UC-B6FCSY38/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/react-certificate.jpg?raw=true"
+             alt="Meteor & React Certificate"
+             width="260px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://acbeujf.com.br/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/acbeu.png?raw=true"
+             alt="Advanced English"
+             width="260px" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
