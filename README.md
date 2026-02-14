@@ -184,11 +184,7 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   </tr>
   <tr>
     <td>
-      <a href="https://www.codementor.io/@diogo_angelim?refer=badge" target="_blank">
-        <img src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg"
-             alt="Codementor Mentor"
-             width="260px" />
-      </a>
+      <a href="https://www.codementor.io/@diogo_angelim?refer=badge"><img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="260px" alt="Diogo Angelim Codementor"></a>
     </td>
     <td>
       <a href="https://upwork.com/fl/diogoangelim" target="_blank">
