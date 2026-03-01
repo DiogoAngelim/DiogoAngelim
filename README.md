@@ -179,19 +179,11 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <table>
   <tr>
     <th>Mentor</th>
-    <th>Upwork Top Rated</th>
     <th>WordPress Expert</th>
   </tr>
   <tr>
     <td>
       <a href="https://www.codementor.io/@diogo_angelim?refer=badge"><img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="260px" alt="Diogo Angelim Codementor"></a>
-    </td>
-    <td>
-      <a href="https://upwork.com/fl/diogoangelim" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/upwork.png?raw=true"
-             alt="Upwork Top Rated"
-             width="260px" />
-      </a>
     </td>
     <td>
       <a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true" target="_blank">
@@ -203,7 +195,6 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   </tr>
   <tr>
     <th>Machine Learning</th>
-    <th>Meteor & React</th>
     <th>Advanced English</th>
   </tr>
   <tr>
@@ -211,13 +202,6 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
       <a href="https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true"
              alt="Machine Learning Certificate"
-             width="260px" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.udemy.com/certificate/UC-B6FCSY38/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/react-certificate.jpg?raw=true"
-             alt="Meteor & React Certificate"
              width="260px" />
       </a>
     </td>
