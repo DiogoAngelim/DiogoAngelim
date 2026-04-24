@@ -62,7 +62,7 @@ My work has supported products used by thousands of users, high-volume transacti
 
 <br>
 
-- **Software Engineer & Founder** - Risk Divider - *2022 - current*
+- **Software Engineer & Founder** - Naubly - *2019 - current*
 
   Building AI-driven portfolio optimization tools for retail investors. Developed custom AI and statistical models that help users reduce risk and improve returns across stocks, crypto, and currencies. Early users experienced a 3X improvement in risk-adjusted performance. Focused on making investing smarter and more accessible without relying on traditional advisors.
 
