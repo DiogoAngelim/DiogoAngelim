@@ -103,13 +103,13 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <br/>
 <table>
   <tr>
-    <td align="center"><strong>Speedio</strong></td>
-    <td align="center"><strong>AlGAI</strong></td>
+    <td align="center"><strong>YOUR BUSINESS HERE</strong></td>
+    <td align="center"><strong>AlgAI</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://speedio.com.br/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
+      <a href="https://naubly.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/CleanShot%202026-05-18%20at%2009.46.07%402x.png" alt="Naubly" width="240"/>
       </a>
     </td>
     <td align="center">
