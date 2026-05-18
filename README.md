@@ -1,12 +1,12 @@
 <br><br><br>
-[![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=✅%20Hey,%20I%20am%20Diogo!&fontSize=72)](https://linkedin.com/in/diogoangelim)
+[![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Nice%20to%20meet%20you.%20I%20'm%20Diogo.&fontSize=42)](https://linkedin.com/in/diogoangelim)
 
 <br><br><br>
 ## About
 
 <br>
 
-> **Software Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
+> **A Software Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
 
 <br>
 I work across the stack using React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems through a strong understanding of the Software Development Lifecycle.
