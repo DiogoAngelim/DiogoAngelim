@@ -103,7 +103,7 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <br/>
 <table>
   <tr>
-    <td align="center"><strong>YOUR BUSINESS HERE</strong></td>
+    <td align="center"><strong>YOUR REDESIGN HERE</strong></td>
     <td align="center"><strong>AlgAI</strong></td>
   </tr>
   <tr>
