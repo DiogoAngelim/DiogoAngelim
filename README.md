@@ -104,7 +104,7 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <table>
   <tr>
     <td align="center"><strong>Speedio</strong></td>
-    <td align="center"><strong>Risk Divider</strong></td>
+    <td align="center"><strong>AlGAI</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -113,8 +113,8 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
       </a>
     </td>
     <td align="center">
-      <a href="https://riskdivider.com" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/coming-soon.png?raw=true" alt="Risk Divider" width="400"/>
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/algAI.png" alt="AlgAI" width="400"/>
       </a>
     </td>
   </tr>
