@@ -6,7 +6,7 @@
 
 <br>
 
-> **A Software Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
+> **I'm a Software Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
 
 <br>
 I work across the stack using React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems through a strong understanding of the Software Development Lifecycle.
