@@ -103,18 +103,18 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 <br/>
 <table>
   <tr>
-    <td align="center"><strong>YOUR REDESIGN HERE</strong></td>
+    <td align="center"><strong>capitalIQ</strong></td>
     <td align="center"><strong>AlgAI</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://naubly.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/CleanShot%202026-05-18%20at%2009.46.07%402x.png" alt="Naubly" width="240"/>
+      <a href="https://stocks-optimizer.vercel.app/" target="_blank">
+        <img src="capitalIQ-hero.png" alt="capitalIQ" width="400"/>
       </a>
     </td>
     <td align="center">
       <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/algAI.png" alt="AlgAI" width="400"/>
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/algai.gif" alt="AlgAI" width="400"/>
       </a>
     </td>
   </tr>
