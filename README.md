@@ -275,7 +275,7 @@ Work was completed to a high standard.
 
 [![Email](https://img.shields.io/badge/hello%40diogoangelim.dev-blue?style=flat&logo=gmail)](mailto:hello@diogoangelim.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diogoangelim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogoangelim)
-[![Website](https://img.shields.io/badge/riskdivider.com-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://riskdivider.com)
+[![Website](https://img.shields.io/badge/naubly.com-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://naubly.com)
 [![GitHub](https://img.shields.io/badge/diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
 
 <br/><br/>
