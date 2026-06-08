@@ -1,23 +1,25 @@
-<br><br><br>
+
+
+
 [![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Nice%20to%20meet%20you.%20I%20'm%20Diogo.&fontSize=42)](https://linkedin.com/in/diogoangelim)
 
 <br><br><br>
+
 ## About
 
 <br>
 
-> **I'm a Software Engineer building scalable, AI-enabled products where performance, data, and real business outcomes matter.**
+> **I'm a Founding AI Engineer who builds AI-driven products from zero to production — owning the full stack from model design and backend architecture to the user interface.**
 
 <br>
-I work across the stack using React, Node.js, TypeScript, Python, Rust, and SQL, delivering production-ready systems through a strong understanding of the Software Development Lifecycle.
+I've spent six years at the intersection of AI, systems design, and business outcomes. I founded Naubly, an AI-powered investment platform where I designed the decision intelligence layer, built the data pipelines, and shipped the product end-to-end. I also designed and authored Signal — a production correctness standard for versioned, idempotency-safe, auditable backend operations — and open-sourced tooling adopted by the WordPress developer community.
 <br/><br/>
-My work has supported products used by thousands of users, high-volume transactional systems, and AI-driven decision tools in finance and SaaS.
+My work spans fintech AI, high-volume transactional systems processing billions in transactions, and high-traffic SaaS platforms. I write TypeScript, Python, Rust, and SQL, and I know how to build things that stay reliable under real load.
 <br/><br/>
 
 ## Core Technologies
 
 <br>
-
 
 ### Core Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-E5E7EB?style=flat&color=E5E7EB&labelColor=E5E7EB)
@@ -58,47 +60,54 @@ My work has supported products used by thousands of users, high-volume transacti
 
 <br><br>
 
-## <a name="work"></a> Experience 
+## <a name="work"></a> Experience
 
 <br>
 
-- **Software Engineer & Founder** - Naubly - *2019 - current*
+- **Founding AI Engineer** - Naubly - *2019 - current*
 
-  Building AI-driven portfolio optimization tools for retail investors. Developed custom AI and statistical models that help users reduce risk and improve returns across stocks, crypto, and currencies. Early users experienced a 3X improvement in risk-adjusted performance. Focused on making investing smarter and more accessible without relying on traditional advisors.
+  Founded and built an AI-powered portfolio optimization platform for retail investors. Designed the decision intelligence layer — a reviewable, evidence-based judgment system that models risk across stocks, crypto, and currencies using statistical and ML techniques. Architected the full product: data ingestion pipelines, model evaluation, backend API, and React frontend. Early users achieved a 3× improvement in risk-adjusted returns. The platform runs on Signal, an open-source production correctness standard I designed and authored, which makes backend mutations idempotency-safe, replay-protected, and auditable — now used as the operational backbone for financial state changes in the system.
 
 - **Software Engineer** - Union Sistemas de Desenvolvimento - *2025*
 
-  Contributed to the development of a high-impact ERP system using .NET, processing billions in transactions and serving local companies with global reach. My responsibilities included implementing new features, resolving complex bugs, and enhancing overall system functionality. I collaborated with stakeholders and subject matter experts to translate requirements into actionable solutions. Notably, I identified and resolved critical accounting mismatches that could have caused massive losses, ensuring accuracy and reliability across the platform. Through rigorous debugging, testing, and iterative improvements, I delivered high-performance code while contributing to a large-scale software ecosystem.
+  Contributed to a high-impact enterprise ERP system built on .NET, processing billions in transactions and serving local companies with global reach. Implemented new features, resolved complex bugs, and enhanced overall system functionality across a large-scale codebase. Collaborated with stakeholders and subject-matter experts to translate business requirements into reliable solutions. Identified and resolved critical accounting mismatches that could have caused massive financial losses, ensuring accuracy and consistency across the platform through rigorous debugging, testing, and iterative delivery.
 
 - **Software Engineer** - Codeable Aps - *2021 - 2022*
 
-  Performed full-stack development with a focus on solid software architecture and efficient problem-solving. Built custom plugins, handled troubleshooting, implemented custom API integrations, and delivered secure, high-performing e-commerce solutions. Successfully migrated 300+ paying customers to a new payment processor, alleviating complexity for the client, ensuring fast delivery, and saving both time and money. Maintained high client satisfaction through clear communication, reliability, and consistent delivery.
+  Delivered full-stack WordPress engineering at Codeable — one of the most selective developer networks in the ecosystem, accepting fewer than 2% of applicants. Built custom plugins, implemented complex API integrations, and delivered secure, high-performing e-commerce solutions. Designed and executed a zero-downtime migration of 300+ paying subscribers from one payment processor to another, reducing client complexity and shipping on schedule. Maintained consistently high satisfaction ratings through reliable delivery and clear communication.
 
 - **Software Engineer** - On Purpose Projects - *2017 - 2021*
 
-  Built and scaled websites from small projects to high-traffic platforms serving thousands of daily visitors, ensuring performance, compatibility, security, and maintainability. Engineered scalable web architectures that maintained fast load times under heavy traffic, implemented security best practices to protect client data, and optimized site performance, reducing page load times by up to 40%. Delivered client-focused solutions that translated designs into functional, pixel-perfect websites while establishing maintainable coding standards and documentation, streamlining collaboration, and reducing future development time.
-  
+  Built and scaled web platforms from greenfield to high-traffic production, serving thousands of daily users. Engineered scalable architectures that held performance under load, implemented security best practices across client systems, and cut page load times by up to 40% through targeted optimization. Established maintainable standards and documentation that reduced onboarding time and accelerated future development cycles.
+
+<br>
+
+## <a name="opensource"></a> Open Source
+
+<br>
+
+- **[Signal](https://github.com/DiogoAngelim/signal)** — A production correctness standard for versioned backend operations. Makes dangerous mutations idempotency-safe, replay-protected, and auditable. Built as a TypeScript monorepo with 188 commits, CI/CD pipelines, a full spec layer, and a reference proof you can run in under a minute. Powers the operational backbone of Naubly's financial transaction system.
+
+- **[html-to-gutenberg](https://github.com/DiogoAngelim/html-to-gutenberg)** — Converts raw HTML into fully editable WordPress Gutenberg blocks with Cloudflare R2 output, in-memory zipping, and a job manifest API. Published as an npm package with test coverage, TypeScript types, and a legacy compatibility layer for existing toolchains.
+
+- **[fetch-page-assets](https://github.com/DiogoAngelim/fetch-page-assets)** — Node.js utility for extracting and normalizing CSS, JS, fonts, and images from HTML pages and URLs, with direct R2 upload support.
+
 <br>
 
 ## <a name="education"></a> Education
 
 <br>
 
-**Computer Science** — Undergraduate (Incomplete)  
-Estácio de Sá | 2018 – 2019
+**Computer Science** — Estácio de Sá | 2018 – 2019  
+**Economics** — Universidade Federal de Viçosa | 2012 – 2014  
+**Software Engineering** — Instituto Federal de Educação, Ciência e Tecnologia | 2008 – 2010  
+**English Language & Advanced Proficiency** — Associação Cultural Brasil–Estados Unidos | 2004 – 2010
 
-**Economics** — Undergraduate (Incomplete)  
-Universidade Federal de Viçosa | 2012 – 2014
-
-**Software Engineering** — Associate (Incomplete)  
-Instituto Federal de Educação, Ciência e Tecnologia | 2008 – 2010
-
-**English Language & Advanced Proficiency** — Completed  
-Associação Cultural Brasil–Estados Unidos | 2004 – 2010
+*Across three technical programs spanning computer science, software engineering, and economics, I developed the cross-disciplinary foundation — systems thinking, quantitative reasoning, and economic modeling — that directly informs the AI and fintech work I do today. I left each program early to take on engineering work in production environments.*
 
 <br/>
 
-## <a name="portfolio"></a>Portfolio
+## <a name="portfolio"></a> Portfolio
 
 <br/>
 <table>
@@ -171,7 +180,6 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
   </tr>
 </table>
 
-
 <br/>
 
 ## <a name="recognition"></a> Certifications & Recognition
@@ -214,7 +222,6 @@ Associação Cultural Brasil–Estados Unidos | 2004 – 2010
     </td>
   </tr>
 </table>
-
 
 <br/>
 
