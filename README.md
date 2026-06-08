@@ -9,13 +9,17 @@
 
 <br>
 
-> **I'm a Founding AI Engineer who builds AI-driven products from zero to production — owning the full stack from model design and backend architecture to the user interface.**
+> **I'm a Founding AI Engineer. I design the AI layer, architect the backend, and ship the product — end to end.**
 
 <br>
-I've spent six years at the intersection of AI, systems design, and business outcomes. I founded Naubly, an AI-powered investment platform where I designed the decision intelligence layer, built the data pipelines, and shipped the product end-to-end. I also designed and authored Signal — a production correctness standard for versioned, idempotency-safe, auditable backend operations — and open-sourced tooling adopted by the WordPress developer community.
-<br/><br/>
-My work spans fintech AI, high-volume transactional systems processing billions in transactions, and high-traffic SaaS platforms. I write TypeScript, Python, Rust, and SQL, and I know how to build things that stay reliable under real load.
-<br/><br/>
+
+I founded [Naubly](https://naubly.com), an AI-powered investment platform, and built it from scratch: the decision-quality model, the data pipelines, the backend, and the React frontend. To do it correctly, I designed and open-sourced [Signal](https://github.com/DiogoAngelim/signal) — a production correctness standard that makes backend mutations idempotency-safe, replay-protected, and auditable. Signal is the operational backbone Naubly runs on.
+
+Before that I spent four years in high-traffic web platforms and two years as a certified [Codeable](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) WordPress engineer — a network that screens applicants through a multi-stage technical review. I also contributed to a .NET ERP system that processes transactions at enterprise scale.
+
+I write TypeScript, Python, Rust, and SQL. I understand how to build things that stay correct under real load.
+
+<br>
 
 ## Core Technologies
 
@@ -64,21 +68,23 @@ My work spans fintech AI, high-volume transactional systems processing billions 
 
 <br>
 
-- **Founding AI Engineer** - Naubly - *2019 - current*
+- **Founding AI Engineer** — [Naubly](https://naubly.com) — *2019 – present*
 
-  Founded and built an AI-powered portfolio optimization platform for retail investors. Designed the decision intelligence layer — a reviewable, evidence-based judgment system that models risk across stocks, crypto, and currencies using statistical and ML techniques. Architected the full product: data ingestion pipelines, model evaluation, backend API, and React frontend. Early users achieved a 3× improvement in risk-adjusted returns. The platform runs on Signal, an open-source production correctness standard I designed and authored, which makes backend mutations idempotency-safe, replay-protected, and auditable — now used as the operational backbone for financial state changes in the system.
+  Founded and built an AI-powered investment platform for retail investors. Designed the decision-quality model — an evidence-based, uncertainty-aware judgment system that tracks assumptions, contradictions, and reviewable learning across investment decisions. Architected and shipped the full product: data ingestion pipelines, backend API, and React frontend.
 
-- **Software Engineer** - Union Sistemas de Desenvolvimento - *2025*
+  To make financial state changes safe under retries and replays, I designed [Signal](https://github.com/DiogoAngelim/signal) — a production correctness standard for versioned, idempotency-safe, auditable backend operations — and wired it in as Naubly's operational core. The live application is at [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app). Early users reported meaningfully better risk-adjusted outcomes compared to their previous approach.
 
-  Contributed to a high-impact enterprise ERP system built on .NET, processing billions in transactions and serving local companies with global reach. Implemented new features, resolved complex bugs, and enhanced overall system functionality across a large-scale codebase. Collaborated with stakeholders and subject-matter experts to translate business requirements into reliable solutions. Identified and resolved critical accounting mismatches that could have caused massive financial losses, ensuring accuracy and consistency across the platform through rigorous debugging, testing, and iterative delivery.
+- **Software Engineer** — Union Sistemas de Desenvolvimento — *2025*
 
-- **Software Engineer** - Codeable Aps - *2021 - 2022*
+  Contributed to an enterprise .NET ERP system handling high-volume financial transactions for companies with international operations. Added new features, resolved complex bugs, and worked directly with stakeholders to translate business logic into reliable code. Identified and resolved accounting mismatches in critical transaction paths — errors that, left undetected, would have caused material financial discrepancies. Delivered changes through rigorous debugging and iterative testing within a large existing codebase.
 
-  Delivered full-stack WordPress engineering at Codeable — one of the most selective developer networks in the ecosystem, accepting fewer than 2% of applicants. Built custom plugins, implemented complex API integrations, and delivered secure, high-performing e-commerce solutions. Designed and executed a zero-downtime migration of 300+ paying subscribers from one payment processor to another, reducing client complexity and shipping on schedule. Maintained consistently high satisfaction ratings through reliable delivery and clear communication.
+- **Software Engineer** — [Codeable](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) Aps — *2021 – 2022*
 
-- **Software Engineer** - On Purpose Projects - *2017 - 2021*
+  Codeable is a curated WordPress engineering network with a multi-stage technical screening process — credential [verifiable here](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true). Built custom plugins, implemented API integrations, and delivered secure e-commerce solutions for international clients. Designed and executed a payment processor migration for over 300 active subscribers — zero data loss, delivered on schedule. Consistently high client satisfaction, as reflected in the reviews below.
 
-  Built and scaled web platforms from greenfield to high-traffic production, serving thousands of daily users. Engineered scalable architectures that held performance under load, implemented security best practices across client systems, and cut page load times by up to 40% through targeted optimization. Established maintainable standards and documentation that reduced onboarding time and accelerated future development cycles.
+- **Software Engineer** — On Purpose Projects — *2017 – 2021*
+
+  Built and scaled web platforms from initial build to high-traffic production across four years of client work. Engineered architectures capable of sustaining large concurrent visitor loads, implemented security measures across client systems, and improved page performance through targeted optimizations. Established documentation and coding standards that reduced handoff time across projects.
 
 <br>
 
@@ -86,11 +92,25 @@ My work spans fintech AI, high-volume transactional systems processing billions 
 
 <br>
 
-- **[Signal](https://github.com/DiogoAngelim/signal)** — A production correctness standard for versioned backend operations. Makes dangerous mutations idempotency-safe, replay-protected, and auditable. Built as a TypeScript monorepo with 188 commits, CI/CD pipelines, a full spec layer, and a reference proof you can run in under a minute. Powers the operational backbone of Naubly's financial transaction system.
+**[Signal](https://github.com/DiogoAngelim/signal)** — A production correctness standard for dangerous backend operations.
 
-- **[html-to-gutenberg](https://github.com/DiogoAngelim/html-to-gutenberg)** — Converts raw HTML into fully editable WordPress Gutenberg blocks with Cloudflare R2 output, in-memory zipping, and a job manifest API. Published as an npm package with test coverage, TypeScript types, and a legacy compatibility layer for existing toolchains.
+Signal makes mutations idempotency-safe, replay-protected, and auditable. It defines explicit contracts for Queries, Mutations, and Events, with stable names, schemas, idempotency enforcement, subscriber dedupe, and audit evidence. Built as a TypeScript monorepo with a full protocol spec layer, CI/CD pipelines, a Postgres-backed idempotency store, and a runnable reference proof. The docs are [1,175 lines](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md) covering architecture, module catalog, HTTP binding, runtime usage, and production operating guidelines. You can run the entire reference proof — including a live payment-capture mutation with retry, replay, conflict, and audit observation — in under five minutes:
 
-- **[fetch-page-assets](https://github.com/DiogoAngelim/fetch-page-assets)** — Node.js utility for extracting and normalizing CSS, JS, fonts, and images from HTML pages and URLs, with direct R2 upload support.
+```sh
+pnpm install && pnpm proof:reference
+```
+
+Live examples: [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) · [aware-guide.vercel.app](https://aware-guide.vercel.app)
+
+---
+
+**[html-to-gutenberg](https://github.com/DiogoAngelim/html-to-gutenberg)** — Converts raw HTML into fully editable WordPress Gutenberg blocks.
+
+Published as an npm package (`npm install html-to-gutenberg`). Supports Cloudflare R2 output with in-memory zipping, a job manifest API, CI via GitHub Actions, TypeScript types, test coverage, and a backwards-compatible legacy mode for existing toolchains.
+
+---
+
+**[fetch-page-assets](https://github.com/DiogoAngelim/fetch-page-assets)** — Node.js utility for extracting and normalizing CSS, JS, fonts, and images from HTML pages and URLs, with direct R2 upload support.
 
 <br>
 
@@ -98,12 +118,7 @@ My work spans fintech AI, high-volume transactional systems processing billions 
 
 <br>
 
-**Computer Science** — Estácio de Sá | 2018 – 2019  
-**Economics** — Universidade Federal de Viçosa | 2012 – 2014  
-**Software Engineering** — Instituto Federal de Educação, Ciência e Tecnologia | 2008 – 2010  
-**English Language & Advanced Proficiency** — Associação Cultural Brasil–Estados Unidos | 2004 – 2010
-
-*Across three technical programs spanning computer science, software engineering, and economics, I developed the cross-disciplinary foundation — systems thinking, quantitative reasoning, and economic modeling — that directly informs the AI and fintech work I do today. I left each program early to take on engineering work in production environments.*
+I studied across three technical programs — Computer Science (Estácio de Sá), Software Engineering (Instituto Federal), and Economics (Universidade Federal de Viçosa) — and left each to work in production engineering. The economics background directly informs the quantitative and portfolio modeling work in Naubly. Six years of advanced English study (Associação Cultural Brasil–Estados Unidos, 2004–2010) brings full professional fluency.
 
 <br/>
 
@@ -127,7 +142,6 @@ My work spans fintech AI, high-volume transactional systems processing billions 
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Web Different</strong></td>
     <td align="center"><strong>My Freight</strong></td>
@@ -144,7 +158,6 @@ My work spans fintech AI, high-volume transactional systems processing billions 
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Blitz Design 2.0</strong></td>
     <td align="center"><strong>Blitz Design</strong></td>
@@ -161,7 +174,6 @@ My work spans fintech AI, high-volume transactional systems processing billions 
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Prophecy</strong></td>
     <td align="center"><strong>B2B Software Advisors</strong></td>
@@ -183,6 +195,7 @@ My work spans fintech AI, high-volume transactional systems processing billions 
 <br/>
 
 ## <a name="recognition"></a> Certifications & Recognition
+
 <br><br>
 <table>
   <tr>
@@ -191,13 +204,13 @@ My work spans fintech AI, high-volume transactional systems processing billions 
   </tr>
   <tr>
     <td>
-      <a href="https://www.codementor.io/@diogo_angelim?refer=badge"><img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="260px" alt="Diogo Angelim Codementor"></a>
+      <a href="https://www.codementor.io/@diogo_angelim?refer=badge">
+        <img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="260px" alt="Diogo Angelim Codementor">
+      </a>
     </td>
     <td>
       <a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true"
-             alt="Codeable WordPress Expert"
-             width="260px" />
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true" alt="Codeable WordPress Expert" width="260px" />
       </a>
     </td>
   </tr>
@@ -208,16 +221,12 @@ My work spans fintech AI, high-volume transactional systems processing billions 
   <tr>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true"
-             alt="Machine Learning Certificate"
-             width="260px" />
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true" alt="Machine Learning Certificate" width="260px" />
       </a>
     </td>
     <td>
       <a href="https://acbeujf.com.br/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/acbeu.png?raw=true"
-             alt="Advanced English"
-             width="260px" />
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/acbeu.png?raw=true" alt="Advanced English" width="260px" />
       </a>
     </td>
   </tr>
@@ -225,57 +234,54 @@ My work spans fintech AI, high-volume transactional systems processing billions 
 
 <br/>
 
-<br/>
-
 ## Feedback <a name="reviews"></a>
 
 <br/>
 
-### ⭐⭐⭐⭐⭐ Add Date Filtering to Plugin  
+### ⭐⭐⭐⭐⭐ Add Date Filtering to Plugin
 **08 Dec 2021**
 
 Diogo delivered above and beyond what was expected.
 
 **Paul Morin**
 
+---
 
-
-### ⭐⭐⭐⭐⭐ PaidMembershipPro to Paid Member Subscriptions  
+### ⭐⭐⭐⭐⭐ PaidMembershipPro to Paid Member Subscriptions
 **29 Nov 2021**
 
-Diogo was fantastic and went above and beyond my expectations.  
-He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges.  
+Diogo was fantastic and went above and beyond my expectations.
+He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges.
 I'm ready to hire him for my next project!
 
 <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/robert.png?raw=true" alt="Robert Johnson" width="48" />
 
 **Robert Johnson**
 
+---
 
-
-### ⭐⭐⭐⭐⭐ I need some coding  
+### ⭐⭐⭐⭐⭐ I need some coding
 **19 Nov 2021**
 
-Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted.  
+Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted.
 He always replied within an hour! This is amazing.
 
 <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/carman.png?raw=true" alt="Carman Chung" width="48" />
 
 **Carman Chung**
 
+---
 
-
-### ⭐⭐⭐⭐⭐ Pushing Local Pickup Plus options to Shipping  
+### ⭐⭐⭐⭐⭐ Pushing Local Pickup Plus options to Shipping
 **01 Nov 2021**
 
-Fast and super easy to work with.  
+Fast and super easy to work with.
 Work was completed to a high standard.
 
 <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/adam.png?raw=true" alt="Adam Selley" width="48" />
 
 **Adam Selley**
 
-<br/>
 <br/>
 
 ## Reach Out
