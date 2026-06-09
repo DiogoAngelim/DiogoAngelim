@@ -3,292 +3,261 @@
 
 [![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Nice%20to%20meet%20you.%20I%20'm%20Diogo.&fontSize=42)](https://linkedin.com/in/diogoangelim)
 
-<br><br><br>
-
-## About
-
-<br>
-
-> **I'm a Founding AI Engineer. I design the AI layer, architect the backend, and ship the product — end to end.**
-
-<br>
-
-I founded [Naubly](https://naubly.com), an AI-powered investment platform, and built it from scratch: the decision-quality model, the data pipelines, the backend, and the React frontend. To do it correctly, I designed and open-sourced [Signal](https://github.com/DiogoAngelim/signal) — a production correctness standard that makes backend mutations idempotency-safe, replay-protected, and auditable. Signal is the operational backbone Naubly runs on.
-
-Before that I spent four years in high-traffic web platforms and two years as a certified [Codeable](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) WordPress engineer — a network that screens applicants through a multi-stage technical review. I also contributed to a .NET ERP system that processes transactions at enterprise scale.
-
-I write TypeScript, Python, Rust, and SQL. I understand how to build things that stay correct under real load.
-
-<br>
-
-## Core Technologies
-
-<br>
-
-### Core Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-E5E7EB?style=flat&color=E5E7EB&labelColor=E5E7EB)
-![TypeScript](https://img.shields.io/badge/TypeScript-E5E7EB?style=flat&color=E5E7EB)
-![React](https://img.shields.io/badge/React-E5E7EB?style=flat&color=E5E7EB)
-![Next.js](https://img.shields.io/badge/Next.js-E5E7EB?style=flat&color=E5E7EB)
-![Node.js](https://img.shields.io/badge/Node.js-E5E7EB?style=flat&color=E5E7EB)
-![Express.js](https://img.shields.io/badge/Express.js-E5E7EB?style=flat&color=E5E7EB)
-
-### Data, AI & Visualization
-![Python](https://img.shields.io/badge/Python-F1F5F9?style=flat&color=F1F5F9)
-![PyTorch](https://img.shields.io/badge/PyTorch-F1F5F9?style=flat&color=F1F5F9)
-![D3.js](https://img.shields.io/badge/D3.js-F1F5F9?style=flat&color=F1F5F9)
-![SQL](https://img.shields.io/badge/SQL-F1F5F9?style=flat&color=F1F5F9)
-![Caching](https://img.shields.io/badge/Caching-F1F5F9?style=flat&color=F1F5F9)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F8FAFC?style=flat&color=F8FAFC)
-![MySQL](https://img.shields.io/badge/MySQL-F8FAFC?style=flat&color=F8FAFC)
-![MongoDB](https://img.shields.io/badge/MongoDB-F8FAFC?style=flat&color=F8FAFC)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-F8FAFC?style=flat&color=F8FAFC)
-
-### Infrastructure, Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-F9FAFB?style=flat&color=F9FAFB)
-![Docker](https://img.shields.io/badge/Docker-F9FAFB?style=flat&color=F9FAFB)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-F9FAFB?style=flat&color=F9FAFB)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F9FAFB?style=flat&color=F9FAFB)
-![Unix](https://img.shields.io/badge/Unix-F9FAFB?style=flat&color=F9FAFB)
-![SSH](https://img.shields.io/badge/SSH-F9FAFB?style=flat&color=F9FAFB)
-
-### APIs, Automation & Platforms
-![REST APIs](https://img.shields.io/badge/REST%20APIs-F3F4F6?style=flat&color=F3F4F6)
-![WebSockets](https://img.shields.io/badge/WebSockets-F3F4F6?style=flat&color=F3F4F6)
-![Authentication](https://img.shields.io/badge/Authentication-F3F4F6?style=flat&color=F3F4F6)
-![n8n](https://img.shields.io/badge/n8n-F3F4F6?style=flat&color=F3F4F6)
-![ERP](https://img.shields.io/badge/ERP-F3F4F6?style=flat&color=F3F4F6)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-F3F4F6?style=flat&color=F3F4F6)
-
 <br><br>
 
-## <a name="work"></a> Experience
+I've spent eight years building software where correctness matters — payment systems, financial platforms, enterprise ERP, high-traffic web infrastructure. Over time I noticed a pattern: the hardest problems weren't in the code. They were in the decisions behind it — whether an operation was safe to retry, whether a state change was auditable, whether a judgment was based on reviewable evidence or untraceable assumptions. That pattern became the thread running through everything I've built.
+
+I'm a full-stack engineer. Founder experience sharpened my judgment — it didn't replace my engineering identity.
 
 <br>
-
-- **Founding AI Engineer** — [Naubly](https://naubly.com) — *2019 – present*
-
-  Founded and built an AI-powered investment platform for retail investors. Designed the decision-quality model — an evidence-based, uncertainty-aware judgment system that tracks assumptions, contradictions, and reviewable learning across investment decisions. Architected and shipped the full product: data ingestion pipelines, backend API, and React frontend.
-
-  To make financial state changes safe under retries and replays, I designed [Signal](https://github.com/DiogoAngelim/signal) — a production correctness standard for versioned, idempotency-safe, auditable backend operations — and wired it in as Naubly's operational core. The live application is at [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app). Early users reported meaningfully better risk-adjusted outcomes compared to their previous approach.
-
-- **Software Engineer** — Union Sistemas de Desenvolvimento — *2025*
-
-  Contributed to an enterprise .NET ERP system handling high-volume financial transactions for companies with international operations. Added new features, resolved complex bugs, and worked directly with stakeholders to translate business logic into reliable code. Identified and resolved accounting mismatches in critical transaction paths — errors that, left undetected, would have caused material financial discrepancies. Delivered changes through rigorous debugging and iterative testing within a large existing codebase.
-
-- **Software Engineer** — [Codeable](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true) Aps — *2021 – 2022*
-
-  Codeable is a curated WordPress engineering network with a multi-stage technical screening process — credential [verifiable here](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true). Built custom plugins, implemented API integrations, and delivered secure e-commerce solutions for international clients. Designed and executed a payment processor migration for over 300 active subscribers — zero data loss, delivered on schedule. Consistently high client satisfaction, as reflected in the reviews below.
-
-- **Software Engineer** — On Purpose Projects — *2017 – 2021*
-
-  Built and scaled web platforms from initial build to high-traffic production across four years of client work. Engineered architectures capable of sustaining large concurrent visitor loads, implemented security measures across client systems, and improved page performance through targeted optimizations. Established documentation and coding standards that reduced handoff time across projects.
-
-<br>
-
-## <a name="opensource"></a> Open Source
-
-<br>
-
-**[Signal](https://github.com/DiogoAngelim/signal)** — A production correctness standard for dangerous backend operations.
-
-Signal makes mutations idempotency-safe, replay-protected, and auditable. It defines explicit contracts for Queries, Mutations, and Events, with stable names, schemas, idempotency enforcement, subscriber dedupe, and audit evidence. Built as a TypeScript monorepo with a full protocol spec layer, CI/CD pipelines, a Postgres-backed idempotency store, and a runnable reference proof. The docs are [1,175 lines](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md) covering architecture, module catalog, HTTP binding, runtime usage, and production operating guidelines. You can run the entire reference proof — including a live payment-capture mutation with retry, replay, conflict, and audit observation — in under five minutes:
-
-```sh
-pnpm install && pnpm proof:reference
-```
-
-Live examples: [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) · [aware-guide.vercel.app](https://aware-guide.vercel.app)
 
 ---
 
-**[html-to-gutenberg](https://github.com/DiogoAngelim/html-to-gutenberg)** — Converts raw HTML into fully editable WordPress Gutenberg blocks.
+## Experience
 
-Published as an npm package (`npm install html-to-gutenberg`). Supports Cloudflare R2 output with in-memory zipping, a job manifest API, CI via GitHub Actions, TypeScript types, test coverage, and a backwards-compatible legacy mode for existing toolchains.
+<br>
+
+**Founding Engineer — [Naubly](https://naubly.com)** &nbsp;·&nbsp; *2019 – present*
+
+**Problem:** Retail investors make portfolio decisions under significant uncertainty, with no traceable record of what evidence informed a decision or what assumptions failed.
+
+**Constraint:** Building a reliable financial system as a solo founder means correctness failures aren't caught by a team. Every architectural decision carries full weight.
+
+**What I built:** An investment decision-support platform that tracks evidence quality, surfaces contradictions and unknowns, and maintains reviewable learning across decisions. The system models a complete judgment lifecycle — from evidence assessment through assumption tracking to outcome review and lesson extraction — so a user can see not just *what* was decided, but *why*, and whether those reasons held up.
+
+To support the financial operation layer safely, I designed [Signal](https://github.com/DiogoAngelim/signal) — a production correctness standard I later open-sourced — to make dangerous backend mutations idempotency-safe, replay-protected, and auditable by construction.
+
+**Outcome:** A live application at [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) and a generalized infrastructure library that solves a class of correctness problems beyond fintech.
+
+<br>
+
+**Software Engineer — Union Sistemas de Desenvolvimento** &nbsp;·&nbsp; *2025*
+
+**Problem:** A high-volume .NET ERP system with accounting logic distributed across a large codebase, where silent discrepancies in critical transaction paths don't surface immediately.
+
+**What I did:** Added features, resolved complex bugs, and worked directly with domain experts to translate accounting rules into reliable code. Identified and corrected accounting mismatches in critical transaction paths — errors that would have produced material financial discrepancies if left undetected.
+
+<br>
+
+**Software Engineer — Codeable** &nbsp;·&nbsp; *2021 – 2022* &nbsp;·&nbsp; [credential](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true)
+
+Codeable admits engineers through a multi-stage technical screening process. Work here meant operating under client expectations, tight delivery constraints, and zero tolerance for regressions.
+
+**Defining project:** Migrated 300+ active paying subscribers from one payment processor to another. The constraint was zero data loss and no service interruption during active billing cycles. Designed the migration sequence, handled edge cases in subscriber state, and delivered on schedule.
+
+<br>
+
+**Software Engineer — On Purpose Projects** &nbsp;·&nbsp; *2017 – 2021*
+
+Four years building and operating client web platforms — from initial architecture through scaling to sustained high-traffic production. Learned early that performance problems, security gaps, and maintainability failures are rarely surprises: they're the result of decisions made earlier under different constraints. Developed a habit of designing for the operational state, not just the build state.
+
+<br>
 
 ---
 
-**[fetch-page-assets](https://github.com/DiogoAngelim/fetch-page-assets)** — Node.js utility for extracting and normalizing CSS, JS, fonts, and images from HTML pages and URLs, with direct R2 upload support.
+## Open Source
 
 <br>
 
-## <a name="education"></a> Education
+**[Signal](https://github.com/DiogoAngelim/signal)**
+
+Signal started as internal infrastructure for Naubly's financial operations and became a generalized standard for backend correctness.
+
+The core insight: most backend reliability failures aren't bugs in individual handlers — they're failures of contract. Operations lack stable names. Mutations aren't declared idempotent. Events describe hoped-for futures instead of recorded facts. Audit evidence isn't produced. Retries cause duplicate state changes. Signal addresses these as a unified correctness layer, not as individual patches.
+
+It defines explicit contracts for Queries (reads), Mutations (intentional state changes), and Events (recorded facts), with enforced idempotency, replay protection, subscriber dedupe, structured audit evidence, and versioned operation names. Ships with a Postgres-backed idempotency store, a Fastify HTTP binding, a full protocol spec, CI/CD, and a runnable reference proof — payment capture, retry, replay, conflict, and audit observation — completable in under five minutes.
+
+[Documentation](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md) &nbsp;·&nbsp; [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) &nbsp;·&nbsp; [aware-guide.vercel.app](https://aware-guide.vercel.app)
 
 <br>
 
-I studied across three technical programs — Computer Science (Estácio de Sá), Software Engineering (Instituto Federal), and Economics (Universidade Federal de Viçosa) — and left each to work in production engineering. The economics background directly informs the quantitative and portfolio modeling work in Naubly. Six years of advanced English study (Associação Cultural Brasil–Estados Unidos, 2004–2010) brings full professional fluency.
+**[html-to-gutenberg](https://github.com/DiogoAngelim/html-to-gutenberg)**
 
-<br/>
+Converts arbitrary HTML into fully editable WordPress Gutenberg blocks. Published on npm. Supports Cloudflare R2 output, in-memory bundling, a job manifest API, TypeScript types, test coverage, and backwards compatibility for existing toolchains.
 
-## <a name="portfolio"></a> Portfolio
+<br>
 
-<br/>
+**[fetch-page-assets](https://github.com/DiogoAngelim/fetch-page-assets)**
+
+Node.js utility for extracting and normalizing CSS, JS, fonts, and images from HTML pages and remote URLs, with R2 upload support. Used as a dependency within html-to-gutenberg.
+
+<br>
+
+---
+
+## Portfolio
+
+<br>
+
 <table>
   <tr>
-    <td align="center"><strong>capitalIQ</strong></td>
-    <td align="center"><strong>AlgAI</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://stocks-optimizer.vercel.app/" target="_blank">
-        <img src="capitalIQ-hero.png" alt="capitalIQ" width="400"/>
+        <img src="capitalIQ-hero.png" alt="capitalIQ" height="300"/>
       </a>
+      <br/><br/>
+      <strong>capitalIQ</strong>
+      <br/>
+      <sub>AI investment decision platform &nbsp;·&nbsp; <a href="https://stocks-optimizer.vercel.app/">live ↗</a></sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/algai.gif" alt="AlgAI" width="400"/>
       </a>
+      <br/><br/>
+      <strong>AlgAI</strong>
+      <br/>
+      <sub>Adaptive learning assistant</sub>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td align="center"><strong>Web Different</strong></td>
-    <td align="center"><strong>My Freight</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
       </a>
+      <br/><br/>
+      <strong>Web Different</strong>
+      <br/>
+      <sub>High-traffic agency platform &nbsp;·&nbsp; <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">archive ↗</a></sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
       </a>
+      <br/><br/>
+      <strong>My Freight</strong>
+      <br/>
+      <sub>Logistics platform &nbsp;·&nbsp; <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">archive ↗</a></sub>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td align="center"><strong>Blitz Design 2.0</strong></td>
-    <td align="center"><strong>Blitz Design</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/blitz-2.0.gif?raw=true" alt="Blitz Design 2.0" width="400"/>
       </a>
+      <br/><br/>
+      <strong>Blitz Design 2.0</strong>
+      <br/>
+      <sub>Design studio platform &nbsp;·&nbsp; <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">archive ↗</a></sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://codepen.io/digelim/pen/wbOggK" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" width="400"/>
       </a>
+      <br/><br/>
+      <strong>Blitz Design</strong>
+      <br/>
+      <sub>Frontend concept &nbsp;·&nbsp; <a href="https://codepen.io/digelim/pen/wbOggK">CodePen ↗</a></sub>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td align="center"><strong>Prophecy</strong></td>
-    <td align="center"><strong>B2B Software Advisors</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
       </a>
+      <br/><br/>
+      <strong>Prophecy</strong>
+      <br/>
+      <sub>Product marketing page &nbsp;·&nbsp; <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">archive ↗</a></sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://b2bsoftwareadvisors.com/" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" width="400"/>
       </a>
+      <br/><br/>
+      <strong>B2B Software Advisors</strong>
+      <br/>
+      <sub>Advisory platform &nbsp;·&nbsp; <a href="https://b2bsoftwareadvisors.com/">live ↗</a></sub>
     </td>
   </tr>
 </table>
 
-<br/>
+<br>
 
-## <a name="recognition"></a> Certifications & Recognition
+---
 
-<br><br>
+## Certifications & Recognition
+
+<br>
+
 <table>
   <tr>
-    <th>Mentor</th>
-    <th>WordPress Expert</th>
-  </tr>
-  <tr>
-    <td>
+    <td align="center" width="33%">
       <a href="https://www.codementor.io/@diogo_angelim?refer=badge">
-        <img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="260px" alt="Diogo Angelim Codementor">
+        <img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="200px" alt="Codementor badge"/>
       </a>
+      <br/><br/>
+      <sub><a href="https://www.codementor.io/@diogo_angelim?refer=badge">Codementor</a></sub>
     </td>
-    <td>
+    <td align="center" width="33%">
       <a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true" alt="Codeable WordPress Expert" width="260px" />
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true" alt="Codeable WordPress Expert" width="200px"/>
       </a>
+      <br/><br/>
+      <sub><a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true">Codeable WordPress Expert ↗</a></sub>
     </td>
-  </tr>
-  <tr>
-    <th>Machine Learning</th>
-    <th>Advanced English</th>
-  </tr>
-  <tr>
-    <td>
+    <td align="center" width="33%">
       <a href="https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true" alt="Machine Learning Certificate" width="260px" />
+        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true" alt="Machine Learning — Coursera" width="200px"/>
       </a>
-    </td>
-    <td>
-      <a href="https://acbeujf.com.br/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/acbeu.png?raw=true" alt="Advanced English" width="260px" />
-      </a>
+      <br/><br/>
+      <sub><a href="https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR">Machine Learning — Coursera ↗</a></sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
-## Feedback <a name="reviews"></a>
-
-<br/>
-
-### ⭐⭐⭐⭐⭐ Add Date Filtering to Plugin
-**08 Dec 2021**
-
-Diogo delivered above and beyond what was expected.
-
-**Paul Morin**
+<br>
 
 ---
 
-### ⭐⭐⭐⭐⭐ PaidMembershipPro to Paid Member Subscriptions
-**29 Nov 2021**
+## Client Reviews
 
-Diogo was fantastic and went above and beyond my expectations.
-He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges.
-I'm ready to hire him for my next project!
+<br>
 
-<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/robert.png?raw=true" alt="Robert Johnson" width="48" />
+> *"He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project."*
 
-**Robert Johnson**
+<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/robert.png?raw=true" alt="Robert Johnson" width="32"/> &nbsp; **Robert Johnson** &nbsp;·&nbsp; PaidMembershipPro migration
+
+<br>
+
+> *"Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted. He always replied within an hour."*
+
+<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/carman.png?raw=true" alt="Carman Chung" width="32"/> &nbsp; **Carman Chung**
+
+<br>
+
+> *"Diogo delivered above and beyond what was expected."*
+
+**Paul Morin** &nbsp;·&nbsp; Date filtering plugin
+
+<br>
+
+> *"Fast and super easy to work with. Work was completed to a high standard."*
+
+<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/adam.png?raw=true" alt="Adam Selley" width="32"/> &nbsp; **Adam Selley**
+
+<br>
 
 ---
 
-### ⭐⭐⭐⭐⭐ I need some coding
-**19 Nov 2021**
+## Education
 
-Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted.
-He always replied within an hour! This is amazing.
+<br>
 
-<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/carman.png?raw=true" alt="Carman Chung" width="48" />
+Three technical programs — Computer Science, Software Engineering, and Economics — each left early to take on production engineering work. The economics coursework directly informed Naubly's quantitative modeling. Full professional English fluency (six years, Associação Cultural Brasil–Estados Unidos).
 
-**Carman Chung**
+<br>
 
 ---
 
-### ⭐⭐⭐⭐⭐ Pushing Local Pickup Plus options to Shipping
-**01 Nov 2021**
+<br>
 
-Fast and super easy to work with.
-Work was completed to a high standard.
-
-<img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/adam.png?raw=true" alt="Adam Selley" width="48" />
-
-**Adam Selley**
-
-<br/>
-
-## Reach Out
-
-[![Email](https://img.shields.io/badge/hello%40diogoangelim.dev-blue?style=flat&logo=gmail)](mailto:hello@diogoangelim.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogoangelim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogoangelim)
-[![Website](https://img.shields.io/badge/naubly.com-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://naubly.com)
+[![Email](https://img.shields.io/badge/hello%40diogoangelim.dev-blue?style=flat&logo=gmail&logoColor=white)](mailto:hello@diogoangelim.dev) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogoangelim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogoangelim) &nbsp;
+[![Website](https://img.shields.io/badge/naubly.com-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://naubly.com) &nbsp;
 [![GitHub](https://img.shields.io/badge/diogoangelim-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogoangelim)
 
 <br/><br/>
