@@ -1,7 +1,5 @@
 # Diogo Angelim
 
-# Diogo Angelim
-
 I've spent eight years building software where correctness matters — payment systems, financial platforms, enterprise ERP, high-traffic web infrastructure. Over time I noticed a pattern: the hardest problems weren't in the code. They were in the decisions behind it — whether an operation was safe to retry, whether a state change was auditable, whether a judgment was based on reviewable evidence or untraceable assumptions. That pattern became the thread running through everything I've built.
 
 I'm a full-stack engineer. Founder experience sharpened my judgment — it didn't replace my engineering identity.
