@@ -161,10 +161,7 @@ For published libraries, I aim for approximately 99% automated test coverage whe
       <sub>Learning experience and independent understanding</sub>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/DiogoAngelim/html-to-gutenberg">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/w2.gif" alt="HTML-to-Gutenberg and web tooling portfolio preview" width="400"/>
-      </a>
-      <br/><br/>
+      <br/>
       <strong><a href="https://github.com/DiogoAngelim/html-to-gutenberg">HTML to Gutenberg</a></strong>
       <br/>
       <sub>HTML-to-block conversion for WordPress</sub>
