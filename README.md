@@ -1,3 +1,5 @@
+# Diogo Angelim
+
 
 
 
@@ -8,6 +10,12 @@
 I've spent eight years building software where correctness matters — payment systems, financial platforms, enterprise ERP, high-traffic web infrastructure. Over time I noticed a pattern: the hardest problems weren't in the code. They were in the decisions behind it — whether an operation was safe to retry, whether a state change was auditable, whether a judgment was based on reviewable evidence or untraceable assumptions. That pattern became the thread running through everything I've built.
 
 I'm a full-stack engineer. Founder experience sharpened my judgment — it didn't replace my engineering identity.
+
+<p>
+  <a href="https://www.codementor.io/@diogo_angelim?refer=badge">
+    <img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="200" alt="Find me on Codementor — view my profile"/>
+  </a>
+</p>
 
 <br>
 
@@ -27,7 +35,7 @@ I'm a full-stack engineer. Founder experience sharpened my judgment — it didn'
 
 To support the financial operation layer safely, I designed [Signal](https://github.com/DiogoAngelim/signal) — a production correctness standard I later open-sourced — to make dangerous backend mutations idempotency-safe, replay-protected, and auditable by construction.
 
-**Outcome:** A live application at [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) and a generalized infrastructure library that solves a class of correctness problems beyond fintech.
+**Outcome:** A financial decision-support application in [Signal's Stocks Optimizer example](https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer), plus a generalized infrastructure library addressing correctness problems beyond fintech.
 
 **Additional engineering work:** Built [Neural Configuration Lab](https://github.com/DiogoAngelim/neural-configuration-lab), a local-first neural-network experimentation tool for numeric tabular classification and regression. It combines configurable candidate-space search, train/validation/test separation, training-only preprocessing, naive-baseline comparison, bounded multi-fidelity search, and exportable experiment reports. Its seeded benchmark harness covers binary classification, multiclass classification, and regression; synthetic benchmarks validate reproducibility and workflow behavior, not real-world predictive quality.
 
@@ -69,7 +77,7 @@ The core insight: most backend reliability failures aren't bugs in individual ha
 
 It defines explicit contracts for Queries (reads), Mutations (intentional state changes), and Events (recorded facts), with enforced idempotency, replay protection, subscriber dedupe, structured audit evidence, and versioned operation names. Ships with a Postgres-backed idempotency store, a Fastify HTTP binding, a full protocol spec, CI/CD, and a runnable reference proof — payment capture, retry, replay, conflict, and audit observation — completable in under five minutes.
 
-[Documentation](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md) &nbsp;·&nbsp; [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) &nbsp;·&nbsp; [aware-guide.vercel.app](https://aware-guide.vercel.app)
+[Documentation](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md) &nbsp;·&nbsp; [Stocks Optimizer source](https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer) &nbsp;·&nbsp; [AlgAI dashboard source](https://github.com/DiogoAngelim/signal/tree/main/examples/algai-parent-dashboard)
 
 <br>
 
@@ -77,11 +85,6 @@ It defines explicit contracts for Queries (reads), Mutations (intentional state 
 
 Converts arbitrary HTML into fully editable WordPress Gutenberg blocks. Published on npm. Supports Cloudflare R2 output, in-memory bundling, a job manifest API, TypeScript types, test coverage, and backwards compatibility for existing toolchains.
 
-<br>
-
-**[fetch-page-assets](https://github.com/DiogoAngelim/fetch-page-assets)**
-
-Node.js utility for extracting and normalizing CSS, JS, fonts, and images from HTML pages and remote URLs, with R2 upload support. Used as a dependency within html-to-gutenberg.
 
 <br>
 
@@ -93,94 +96,100 @@ Node.js utility for extracting and normalizing CSS, JS, fonts, and images from H
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://stocks-optimizer.vercel.app/" target="_blank">
-        <img src="capitalIQ-hero.png" alt="capitalIQ" height="300"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/capitalIQ-hero.png" alt="capitalIQ investment decision platform screenshot" width="400"/>
       </a>
       <br/><br/>
-      <strong>capitalIQ</strong>
+      <strong><a href="https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer">capitalIQ / Stocks Optimizer</a></strong>
       <br/>
-      <sub>AI investment decision platform &nbsp;·&nbsp; <a href="https://stocks-optimizer.vercel.app/">live ↗</a></sub>
+      <sub>Investment decision-support platform · <a href="https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer">source ↗</a></sub>
     </td>
-    <td align="center" width="50%">
-      <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/refs/heads/main/algai.gif" alt="AlgAI" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://neural-configuration-lab.vercel.app/">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/neural-configuration-lab.svg" alt="Neural Configuration Lab project cover" width="400"/>
       </a>
       <br/><br/>
-      <strong>AlgAI</strong>
+      <strong><a href="https://github.com/DiogoAngelim/neural-configuration-lab">Neural Configuration Lab</a></strong>
       <br/>
-      <sub>Adaptive learning assistant</sub>
+      <sub>Neural-network experiments for tabular data · <a href="https://neural-configuration-lab.vercel.app/">live app ↗</a> · <a href="https://github.com/DiogoAngelim/neural-configuration-lab">source ↗</a></sub>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://github.com/DiogoAngelim/neural-configuration-lab" target="_blank"><strong>Neural Configuration Lab</strong></a>
-      <br/><br/>
-      <sub>Configurable neural-network search for tabular classification and regression</sub>
-      <br/>
-      <sub><a href="https://github.com/DiogoAngelim/neural-configuration-lab">Source code and reproducible benchmark ↗</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/DiogoAngelim/signal/tree/main/examples/algai-parent-dashboard">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/algAI.png" alt="AlgAI adaptive learning assistant screenshot" width="400"/>
       </a>
       <br/><br/>
-      <strong>Web Different</strong>
+      <strong><a href="https://github.com/DiogoAngelim/signal/tree/main/examples/algai-parent-dashboard">AlgAI</a></strong>
       <br/>
-      <sub>High-traffic agency platform &nbsp;·&nbsp; <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">archive ↗</a></sub>
+      <sub>Adaptive learning assistant · <a href="https://github.com/DiogoAngelim/signal/tree/main/examples/algai-parent-dashboard">source ↗</a></sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/w2.gif" alt="Web Different high-traffic agency platform recording" width="400"/>
       </a>
       <br/><br/>
-      <strong>My Freight</strong>
+      <strong><a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">Web Different</a></strong>
       <br/>
-      <sub>Logistics platform &nbsp;·&nbsp; <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">archive ↗</a></sub>
+      <sub>High-traffic agency platform · <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">archived site ↗</a></sub>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/blitz-2.0.gif?raw=true" alt="Blitz Design 2.0" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/myfreight.gif" alt="My Freight logistics platform recording" width="400"/>
       </a>
       <br/><br/>
-      <strong>Blitz Design 2.0</strong>
+      <strong><a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">My Freight</a></strong>
       <br/>
-      <sub>Design studio platform &nbsp;·&nbsp; <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">archive ↗</a></sub>
+      <sub>Logistics platform · <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">archived site ↗</a></sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://codepen.io/digelim/pen/wbOggK" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/blitz-2.0.gif" alt="Blitz Design 2.0 website recording" width="400"/>
       </a>
       <br/><br/>
-      <strong>Blitz Design</strong>
+      <strong><a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">Blitz Design 2.0</a></strong>
       <br/>
-      <sub>Frontend concept &nbsp;·&nbsp; <a href="https://codepen.io/digelim/pen/wbOggK">CodePen ↗</a></sub>
+      <sub>Design studio platform · <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">archived site ↗</a></sub>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://codepen.io/digelim/pen/wbOggK">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/blitzdesign.gif" alt="Blitz Design frontend concept recording" width="400"/>
       </a>
       <br/><br/>
-      <strong>Prophecy</strong>
+      <strong><a href="https://codepen.io/digelim/pen/wbOggK">Blitz Design</a></strong>
       <br/>
-      <sub>Product marketing page &nbsp;·&nbsp; <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">archive ↗</a></sub>
+      <sub>Frontend concept · <a href="https://codepen.io/digelim/pen/wbOggK">CodePen ↗</a></sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://b2bsoftwareadvisors.com/" target="_blank">
-        <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" width="400"/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/prophecy.png" alt="Prophecy product marketing page screenshot" width="400"/>
       </a>
       <br/><br/>
-      <strong>B2B Software Advisors</strong>
+      <strong><a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">Prophecy</a></strong>
       <br/>
-      <sub>Advisory platform &nbsp;·&nbsp; <a href="https://b2bsoftwareadvisors.com/">live ↗</a></sub>
+      <sub>Product marketing page · <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">archived site ↗</a></sub>
     </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://b2bsoftwareadvisors.com/">
+        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/b2b.png" alt="B2B Software Advisors advisory platform screenshot" width="400"/>
+      </a>
+      <br/><br/>
+      <strong><a href="https://b2bsoftwareadvisors.com/">B2B Software Advisors</a></strong>
+      <br/>
+      <sub>Advisory platform · <a href="https://b2bsoftwareadvisors.com/">live site ↗</a></sub>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -194,21 +203,14 @@ Node.js utility for extracting and normalizing CSS, JS, fonts, and images from H
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://www.codementor.io/@diogo_angelim?refer=badge">
-        <img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="200px" alt="Codementor badge"/>
-      </a>
-      <br/><br/>
-      <sub><a href="https://www.codementor.io/@diogo_angelim?refer=badge">Codementor</a></sub>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/codeable.png?raw=true" alt="Codeable WordPress Expert" width="200px"/>
       </a>
       <br/><br/>
       <sub><a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true">Codeable WordPress Expert ↗</a></sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/machine-learning.png?raw=true" alt="Machine Learning — Coursera" width="200px"/>
       </a>
