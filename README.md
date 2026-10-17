@@ -44,7 +44,7 @@ Machine learning can complement Modern Portfolio Theory (MPT), for example by su
 
 ### Neural Configuration Lab — neural-network experimentation
 
-**[Repository](https://github.com/DiogoAngelim/neural-configuration-lab) · [Live application](https://neural-configuration-lab.vercel.app/)**
+**[Live application](https://neural-configuration-lab.vercel.app/) · Source code available on request
 
 A tool for controlled experiments with scikit-learn multilayer perceptrons on numeric tabular classification and regression tasks.
 
@@ -144,9 +144,9 @@ For published libraries, I aim for approximately 99% automated test coverage whe
         <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/neural-configuration-lab.svg" alt="Neural Configuration Lab project preview" width="400"/>
       </a>
       <br/><br/>
-      <strong><a href="https://github.com/DiogoAngelim/neural-configuration-lab">Neural Configuration Lab</a></strong>
+      <strong><a href="https://neural-configuration-lab.vercel.app/">Neural Configuration Lab</a></strong>
       <br/>
-      <sub>Controlled neural-network experiments · <a href="https://neural-configuration-lab.vercel.app/">Live app ↗</a></sub>
+      <sub>Controlled neural-network experiments · <a href="https://neural-configuration-lab.vercel.app/">Live app ↗</a> · source available on request</sub>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
