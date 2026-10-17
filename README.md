@@ -29,6 +29,8 @@ To support the financial operation layer safely, I designed [Signal](https://git
 
 **Outcome:** A live application at [stocks-optimizer.vercel.app](https://stocks-optimizer.vercel.app) and a generalized infrastructure library that solves a class of correctness problems beyond fintech.
 
+**Additional engineering work:** Built [Neural Configuration Lab](https://github.com/DiogoAngelim/neural-configuration-lab), a local-first neural-network experimentation tool for numeric tabular classification and regression. It combines configurable candidate-space search, train/validation/test separation, training-only preprocessing, naive-baseline comparison, bounded multi-fidelity search, and exportable experiment reports. Its seeded benchmark harness covers binary classification, multiclass classification, and regression; synthetic benchmarks validate reproducibility and workflow behavior, not real-world predictive quality.
+
 <br>
 
 **Software Engineer — Union Sistemas de Desenvolvimento** &nbsp;·&nbsp; *2025*
@@ -112,6 +114,13 @@ Node.js utility for extracting and normalizing CSS, JS, fonts, and images from H
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/DiogoAngelim/neural-configuration-lab" target="_blank"><strong>Neural Configuration Lab</strong></a>
+      <br/><br/>
+      <sub>Configurable neural-network search for tabular classification and regression</sub>
+      <br/>
+      <sub><a href="https://github.com/DiogoAngelim/neural-configuration-lab">Source code and reproducible benchmark ↗</a></sub>
+    </td>
     <td align="center" width="50%">
       <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
         <img src="https://github.com/DiogoAngelim/DiogoAngelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
