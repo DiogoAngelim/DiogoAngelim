@@ -1,11 +1,6 @@
 # Diogo Angelim
 
-
-
-
-[![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Nice%20to%20meet%20you.%20I%20'm%20Diogo.&fontSize=42)](https://linkedin.com/in/diogoangelim)
-
-<br><br>
+# Diogo Angelim
 
 I've spent eight years building software where correctness matters — payment systems, financial platforms, enterprise ERP, high-traffic web infrastructure. Over time I noticed a pattern: the hardest problems weren't in the code. They were in the decisions behind it — whether an operation was safe to retry, whether a state change was auditable, whether a judgment was based on reviewable evidence or untraceable assumptions. That pattern became the thread running through everything I've built.
 
