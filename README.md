@@ -1,274 +1,75 @@
 # Diogo Angelim
 
-**Senior Software Engineer · Full-Stack Engineering · Fintech & Complex Systems**
+**Senior Software Engineer · Backend Reliability, Complex Integrations & Full-Stack Delivery**
 
-I build and improve software where correctness, performance, and maintainability matter: financial applications, backend APIs, complex integrations, and web platforms. I work across the stack—from architecture and data models to user-facing experiences and production operations—and can join as an independent engineer or as an ongoing delivery partner for an agency.
+I build and improve software where correctness, maintainability, and dependable execution matter. My work spans backend APIs, data models, product interfaces, payment and subscription integrations, and production-oriented engineering.
 
-- **Availability:** Immediately
-- **Engagement:** Project-based or ongoing retainer
-- **Target rate:** US$15/hour or US$1,000/month retainer, depending on scope
-- **Working language:** English
-- **Core stack:** TypeScript/JavaScript, React, Next.js, Node.js, Python, SQL, Rust, AWS, Docker, Cloudflare
+I work independently through [Naubly](https://www.naubly.com/) and with product teams or agencies that need an experienced engineer to investigate a difficult system, implement an improvement, and leave it easier to operate. I communicate in English and work on scoped projects or ongoing engagements.
 
-<p>
-  <a href="https://www.codementor.io/@diogo_angelim?refer=badge">
-    <img src="https://www.codementor.io/m-badges/diogo_angelim/find-me-on-cm-b.svg" width="200" alt="Find me on Codementor — view my profile"/>
-  </a>
-</p>
+**[Naubly — engineering services](https://www.naubly.com/)** · **[Selected work](https://www.naubly.com/work)** · **[Signal](https://github.com/DiogoAngelim/signal)** · **[Email](mailto:hello@naubly.com)**
 
----
+## Selected engineering work
 
-## Selected work
+### [Signal — explicit, replay-aware backend operations](https://github.com/DiogoAngelim/signal)
 
-### Signal — decision-processing infrastructure
+An open-source TypeScript decision-processing platform that models events, evidence, assessment, decisions, learning, memory, replay, and audit. Its protocol distinguishes **Queries** (reads), **Mutations** (intentional changes), and **Events** (completed facts).
 
-**[Repository](https://github.com/DiogoAngelim/signal) · [Documentation](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md)**
+The repository documents explicit operation contracts, idempotency and replay safeguards, subscriber deduplication, and audit evidence. Its [reference proof](https://github.com/DiogoAngelim/signal/blob/main/docs/README.md) demonstrates a payment-capture mutation, safe retries, a conflicting replay, and observable audit records.
 
-Signal is an open-source TypeScript platform for applications that need decisions and their execution history to be explicit, reviewable, and replay-safe. It models a lifecycle around events, evidence, assessment, decisions, learning, memory, replay, and audit.
+**Evidence:** source code, tests, and executable reference workflows. This describes the repository's documented implementation—not commercial production adoption or a universal guarantee of payment safety.
 
-- Separates protocol/runtime infrastructure from domain-specific decision logic.
-- Defines Queries, Mutations, and Events as explicit contracts.
-- Implements capabilities including idempotency, replay protection, subscriber deduplication, structured audit evidence, and versioned operation names.
-- Includes a runnable reference proof for payment capture, retry, replay, conflict handling, and audit evidence.
-- Provides reusable packages and examples intended to reduce duplicated infrastructure when building new applications.
+### [HTML to Gutenberg — editable WordPress blocks](https://github.com/DiogoAngelim/html-to-gutenberg)
 
-Signal is an open-source engineering project. The repository documents its current implementation and proof workflows; it should not be interpreted as a claim that every capability is deployed in a commercial production environment.
+A reusable developer tool for turning HTML into editable Gutenberg blocks, including content and preview workflows. Public package distribution can be checked in [npm download statistics](https://www.npmjs.com/package/html-to-gutenberg). Downloads are not equivalent to unique users or client outcomes.
 
-### Stocks Optimizer — investment research and portfolio decisions
+**Evidence:** inspectable source and publicly measurable package downloads.
 
-**[Source in Signal](https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer) · [Signal](https://github.com/DiogoAngelim/signal)**
+### [Neural Configuration Lab — reproducible ML experimentation](https://neural-configuration-lab.vercel.app/)
 
-An investment-focused application example for researching portfolio decisions and strategy-based trading opportunities. It applies a structured decision workflow to investment concepts and evaluates strategy signals through backtesting.
+A controlled experimentation tool for numeric tabular classification and regression, with bounded candidate search, train/validation/test separation, seeded runs, task-appropriate metrics, naive baselines, and exportable reports.
 
-Machine learning can complement Modern Portfolio Theory (MPT), for example by supporting return estimates or identifying patterns, but it does **not** guarantee better risk-adjusted performance. I do not claim a numerical improvement over MPT without a reproducible, out-of-sample comparison that accounts for transaction costs, slippage, and risk.
+**Evidence:** live application and documented experiment workflows. Synthetic benchmarks demonstrate the workflow, not improved predictive performance on real-world data.
 
-### Neural Configuration Lab — neural-network experimentation
+### [AlgAI — learning and explanation workflows](https://github.com/DiogoAngelim/algai-landing)
 
-**[Live application](https://neural-configuration-lab.vercel.app/) · Source code available on request
+An independently developed learning experience supported by TypeScript/Fastify, PostgreSQL/Drizzle, Redis integration, and a Next.js interface. The main application repository is private; the public landing page is a project reference, not an open-source implementation.
 
-A tool for controlled experiments with scikit-learn multilayer perceptrons on numeric tabular classification and regression tasks.
+### Other engineering work
 
-- Configurable candidate search with bounded trial and time budgets.
-- Train/validation/test separation, with preprocessing fitted on training data only.
-- Task-appropriate metrics and comparison against a naive baseline.
-- Seeded benchmark scenarios, repeat runs, and exportable experiment reports.
-- CSV checks and explicit reporting of the evaluation protocol.
+- [Stocks Optimizer](https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer): an investment-decision research and backtesting example, not a live trading-performance claim.
+- [HTML to JSX](https://github.com/DiogoAngelim/html-to-jsx): an open-source front-end development utility.
+- **Symbiosis:** framework-independent UI contracts and accessible interaction principles; independently developed, with private source.
+- **Workbench:** an evidence-grounded workspace for professional opportunities and reviewable applications; independently developed, with private source.
 
-Synthetic benchmark scenarios validate the experiment workflow and reproducibility; they are **not evidence of real-world predictive superiority**. Credible model comparisons require representative data and a predeclared evaluation protocol.
+An [XERJ contributor listing](https://hub.xerj.org/contributors/DiogoAngelim) attributes and selects my Signal evidence-lineage and temporal-validity work as a code reference. This is external recognition of a specific implementation, not a certification or an assertion of production usage.
 
-### AlgAI — learning and independent understanding
+## Professional experience
 
-**[Project source within Signal](https://github.com/DiogoAngelim/signal/tree/main/examples/algai-parent-dashboard) · [Public project repository](https://github.com/DiogoAngelim/algai-landing)**
+**Founder & Software Engineer — Naubly (2019–present)**  
+Independent product engineering and client work covering architecture, APIs, integrations, frontend implementation, testing, and handover. Selected projects above include both independent software and client engagements; they are not all paid client deployments.
 
-AlgAI is a learning experience designed to help learners move from confusion toward independent understanding through a question, expectation, and explanation flow. The related application code describes a TypeScript/Fastify backend, PostgreSQL with Drizzle ORM, Redis integration, a Next.js learner experience, Google sign-in, and teacher-defined symbol mappings. The application repository is private, so the public landing repository is provided for navigation rather than as a source-code link.
+**Software Engineer — Union Sistemas de Desenvolvimento (2025)**  
+Worked on an existing .NET ERP, investigating complex defects, improving application behavior, and contributing to critical engineering paths. Employment details and operational scale are based on professional records, rather than public production metrics.
 
-### HTML to Gutenberg — editable WordPress blocks
+**Software Engineer — Codeable (2021–2022)**  
+Delivered custom WordPress and backend work across APIs, ecommerce, performance, and payment-related integrations. Engagement records include a subscriber-payment migration and client feedback about complex delivery. Specific historical metrics are self-reported unless independently documented, so I do not present them as externally verified results.
 
-**[Public repository](https://github.com/DiogoAngelim/html-to-gutenberg)**
+**Software Engineer — On Purpose Projects (2017–2021)**  
+Contributed to agency projects from scoping and client communication to PHP/JavaScript implementation, CMS integration, troubleshooting, and production support. Work delivered with an agency team is attributed as collaborative, not solely mine.
 
-An open-source tool that converts HTML into editable WordPress Gutenberg blocks. It supports editing content such as text, images, links, and other block elements, and generates a preview to help users understand how the result will appear in the WordPress editor.
+## How I approach engineering
 
-- **Reported adoption:** approximately 600 downloads per week.
-- **Reported workflow improvement:** conversion work that could take hours is reduced to seconds.
-- Published as a reusable package for WordPress-related workflows.
+1. **Identify the real constraint.** Understand the existing workflow, ownership, data, and failure modes before proposing a rewrite.
+2. **Make changes explicit.** Prefer clear API and data contracts, bounded side effects, and reviewable decisions where the risk warrants them.
+3. **Test the failure path.** Consider retries, duplicates, partial completion, recovery, and meaningful acceptance checks alongside happy-path behavior.
+4. **Deliver for ownership.** Implement, validate, document, and hand over changes in a form the team can maintain.
 
-The download figure is approximate and may vary over time. These adoption and workflow metrics are based on my reports and should be checked against current package statistics before being quoted as independently verified figures.
+**Core implementation experience:** TypeScript, JavaScript, React, Next.js, Node.js, SQL/PostgreSQL, PHP/WordPress, Python, backend APIs, integration design, and automated testing. Other technologies appear in individual projects where appropriate; no single list should be interpreted as equal depth of experience in every tool.
 
----
+## Work with me
 
-## Experience
+I take scoped engineering problems, backend/integration improvements, and selected ongoing collaborations through [Naubly](https://www.naubly.com/). Engagement scope, availability, and indicative commercial pricing are discussed there; job-market compensation preferences are separate from client-service rates.
 
-### Founder & Software Engineer — Naubly
-*2019–present*
+**[Discuss an engineering challenge](https://www.naubly.com/#contact)** · [Email hello@naubly.com](mailto:hello@naubly.com) · [View professional credential](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true)
 
-I build software products and reusable engineering tools alongside freelance and platform-based client work. Projects include Signal and its application examples, AlgAI, Neural Configuration Lab, and developer tooling such as HTML to Gutenberg.
-
-My work spans product definition, system architecture, backend and frontend implementation, data modeling, integration design, automated testing, and delivery. I focus on maintainable foundations that make new product work more efficient without obscuring correctness or operational constraints.
-
-### Software Engineer — Union Sistemas de Desenvolvimento
-*2025*
-
-Worked on a .NET ERP used by customers across southeastern Brazil. I delivered improvements, proposed solutions, and investigated complex bugs in critical application paths. The business's clients have performed **billions of transactions cumulatively**, according to the scale information available to me; this refers to aggregate historical transaction volume, not transactions per second or a benchmark I independently measured.
-
-### Software Engineer — Codeable
-*2021–2022 · [Credential](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true)*
-
-Delivered custom WordPress and backend work for approximately 10 clients, including APIs, ecommerce functionality, performance optimization, and payment-related migrations.
-
-- **Reported performance result:** improved a client site's Google Lighthouse score from 22 to 98.
-- **Reported payment migration:** completed a payment integration migration in under 24 hours, with zero reported service disruption.
-- **Subscriber migration:** helped migrate more than 300 active paying subscribers between payment processors. The migration was critical because disruption could have led to lost revenue.
-
-These outcomes reflect my project records and recollection; private supporting evidence is available where client confidentiality permits.
-
-### Software Engineer — On Purpose Projects
-*2017–2021*
-
-Worked across the agency delivery lifecycle, from scoping and client communication to implementation and production support.
-
-- Built custom PHP and JavaScript pages and templates using multiple frameworks.
-- Developed reusable templates and an internal framework to improve delivery efficiency.
-- Integrated CMS functionality so clients could customize their pages.
-- Helped diagnose server disruptions, resolve client issues, and coordinate technical communication.
-- Contributed to defining a scoped, repeatable service-delivery process.
-
----
-
-## Engineering approach
-
-- **Make correctness explicit:** clear contracts, idempotency, replay-safe operations, and auditable state changes where needed.
-- **Measure before claiming:** distinguish benchmarks from production outcomes and use evaluation methods appropriate to the problem.
-- **Test failure modes:** automated tests should cover edge cases and operational boundaries, not only happy paths.
-- **Optimize for maintainability:** prefer clear interfaces, dependency boundaries, and reusable components over unnecessary complexity.
-- **Design for operation:** consider security, observability, deployment, and recovery—not just whether code runs locally.
-
-For published libraries, I aim for approximately 99% automated test coverage where that metric is meaningful. Coverage varies by repository; consult each project's current CI and coverage report for its actual result.
-
----
-
-## Portfolio
-
-<table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/capitalIQ-hero.png" alt="Stocks Optimizer investment application preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://github.com/DiogoAngelim/signal/tree/main/examples/stocks-optimizer">Stocks Optimizer</a></strong>
-      <br/>
-      <sub>Portfolio research and structured investment decisions</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://neural-configuration-lab.vercel.app/">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/neural-configuration-lab.svg" alt="Neural Configuration Lab project preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://neural-configuration-lab.vercel.app/">Neural Configuration Lab</a></strong>
-      <br/>
-      <sub>Controlled neural-network experiments · <a href="https://neural-configuration-lab.vercel.app/">Live app ↗</a> · source available on request</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/DiogoAngelim/signal/tree/main/examples/algai-parent-dashboard">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/algAI.png" alt="AlgAI learning application preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://github.com/DiogoAngelim/algai-landing">AlgAI</a></strong>
-      <br/>
-      <sub>Learning experience and independent understanding</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <br/>
-      <strong><a href="https://github.com/DiogoAngelim/html-to-gutenberg">HTML to Gutenberg</a></strong>
-      <br/>
-      <sub>HTML-to-block conversion for WordPress</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/w2.gif" alt="Web Different agency website preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/">Web Different</a></strong>
-      <br/>
-      <sub>Agency web platform · archived reference</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/myfreight.gif" alt="My Freight logistics website preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/">My Freight</a></strong>
-      <br/>
-      <sub>Logistics platform · archived reference</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/blitz-2.0.gif" alt="Blitz Design 2.0 website preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/">Blitz Design 2.0</a></strong>
-      <br/>
-      <sub>Design studio platform · archived reference</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://codepen.io/digelim/pen/wbOggK">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/blitzdesign.gif" alt="Blitz Design frontend concept preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://codepen.io/digelim/pen/wbOggK">Blitz Design</a></strong>
-      <br/>
-      <sub>Frontend concept · CodePen</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/prophecy.png" alt="Prophecy product page preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page">Prophecy</a></strong>
-      <br/>
-      <sub>Product marketing page · archived reference</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://b2bsoftwareadvisors.com/">
-        <img src="https://raw.githubusercontent.com/DiogoAngelim/DiogoAngelim/main/b2b.png" alt="B2B Software Advisors website preview" width="400"/>
-      </a>
-      <br/><br/>
-      <strong><a href="https://b2bsoftwareadvisors.com/">B2B Software Advisors</a></strong>
-      <br/>
-      <sub>Advisory website</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## Client feedback
-
-> “He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project.”
-
-**Robert Johnson** · PaidMembershipPro migration
-
-> “Diogo is very efficient. He listened patiently to all my needs and helped me accomplish exactly what I wanted. He always replied within an hour.”
-
-**Carman Chung**
-
-> “Diogo delivered above and beyond what was expected.”
-
-**Paul Morin** · Date filtering plugin
-
-> “Fast and super easy to work with. Work was completed to a high standard.”
-
-**Adam Selley**
-
----
-
-## Certifications & education
-
-- **Codeable WordPress Expert** — [credential](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true)
-- **Machine Learning** — [Coursera certificate](https://www.coursera.org/account/accomplishments/verify/5TLHGJPFYLGR)
-- **Academic studies:** Computer Science, Software Engineering, and Economics. I do not claim completed degrees.
-- **English:** Professional working proficiency.
-
----
-
-## Contact
-
-Available immediately for remote project work or ongoing engineering partnerships.
-
-- **Email:** [hello@diogoangelim.dev](mailto:hello@diogoangelim.dev)
-- **LinkedIn:** [linkedin.com/in/diogoangelim](https://linkedin.com/in/diogoangelim)
-- **Codementor:** [codementor.io/@diogo_angelim](https://www.codementor.io/@diogo_angelim?refer=badge)
-- **Website:** [naubly.com](https://naubly.com)
-- **GitHub:** [github.com/DiogoAngelim](https://github.com/DiogoAngelim)
+*Evidence note: independent repositories demonstrate implemented functionality; client outcomes and historical experience may be owner-attested; external citations are linked where available. I do not present prototypes as verified commercial deployments or download counts as customer counts.*
